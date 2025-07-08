@@ -1,0 +1,10 @@
+streamlit
+requests
+pandas
+joblib
+mysql-connector-python
+scikit-learn
+tensorflow
+keras
+
+

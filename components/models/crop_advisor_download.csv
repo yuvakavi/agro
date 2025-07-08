@@ -1,0 +1,1001 @@
+crop,soil_type,pH_range,sowing_month,seed_rate_kg_per_acre,fertilizer_type,fertilizer_schedule,irrigation_freq_per_month,crop_duration_days,common_disease,treatment,expected_yield_quintal_per_acre
+Banana,Alluvial,6.5 - 8.1,Jun,18.6,Vermicompost,Both,7,68,Stem Borer,Use crop rotation,20.4
+Potato,Clay,6.9 - 8.3,May,28.1,Vermicompost,Top Dressing,2,142,Stem Borer,No treatment needed,24.94
+Soybean,Loamy,6.9 - 8.1,Nov,27.9,Urea,Basal,8,100,Downy Mildew,Apply neem extract,16.29
+Sesame,Black soil,5.5 - 7.8,Oct,7.9,Urea,Both,2,110,Powdery Mildew,Apply neem extract,16.39
+Potato,Clay,5.5 - 8.1,May,19.7,NPK,Both,7,98,Rust,Spray insecticide,21.26
+Cabbage,Sandy loam,5.7 - 7.9,Feb,29.8,Compost,Top Dressing,8,84,Leaf Spot,Spray insecticide,23.76
+Green Gram,Black soil,6.9 - 8.1,Jun,30.0,Vermicompost,Basal,5,82,Rust,Remove infected parts,17.49
+Sorghum,Alluvial,7.2 - 8.0,Dec,27.1,NPK,Top Dressing,4,135,Blight,Use fungicide,20.38
+Chili,Alluvial,7.4 - 7.6,Dec,17.2,NPK,Basal,7,95,Anthracnose,Spray insecticide,6.34
+Coffee,Black soil,6.5 - 8.2,Sep,16.3,Vermicompost,Both,8,75,Anthracnose,Use fungicide,33.48
+Wheat,Loamy,6.8 - 8.3,Feb,29.2,DAP,Basal,7,140,Downy Mildew,No treatment needed,9.34
+Potato,Sandy loam,5.5 - 8.3,Mar,21.0,Compost,Both,4,131,Wilt,Spray insecticide,32.06
+Cauliflower,Black soil,6.5 - 8.4,Mar,9.1,Compost,Top Dressing,6,111,Root Rot,Apply neem extract,30.48
+Onion,Sandy loam,5.7 - 7.8,Mar,26.3,NPK,Both,2,92,Anthracnose,Apply neem extract,19.79
+Sugarcane,Clay,7.3 - 7.9,Nov,12.0,Urea,Both,2,151,Powdery Mildew,Use fungicide,8.39
+Sugarcane,Loamy,6.2 - 8.4,Mar,12.3,Compost,Basal,2,145,Downy Mildew,Remove infected parts,14.82
+Pigeon Pea,Clay,6.9 - 8.4,Jul,3.1,Compost,Basal,2,102,Root Rot,No treatment needed,28.55
+Coffee,Alluvial,6.5 - 8.0,Nov,19.7,Vermicompost,Both,5,68,Anthracnose,No treatment needed,28.98
+Bottle Gourd,Clay,6.2 - 7.9,Dec,11.2,DAP,Basal,2,138,Rust,No treatment needed,20.66
+Tea,Sandy loam,6.3 - 7.8,Nov,23.8,DAP,Both,5,148,No major disease,Use crop rotation,6.1
+Apple,Clay,6.1 - 8.2,Feb,27.1,DAP,Basal,8,161,Stem Borer,Use crop rotation,29.24
+Okra,Loamy,6.5 - 7.7,Nov,5.4,NPK,Top Dressing,4,165,Blight,No treatment needed,16.27
+Apple,Clay,6.4 - 7.8,Apr,25.6,DAP,Basal,2,147,No major disease,Use fungicide,16.2
+Carrot,Black soil,5.8 - 8.1,Sep,15.6,DAP,Both,4,125,Wilt,Spray insecticide,14.88
+Rice,Clay,6.6 - 7.9,Mar,13.3,Urea,Basal,2,116,No major disease,Use crop rotation,16.3
+Cauliflower,Black soil,6.6 - 8.3,Sep,26.6,DAP,Top Dressing,5,86,Downy Mildew,Remove infected parts,9.36
+Banana,Sandy loam,6.3 - 8.0,Jul,19.1,Vermicompost,Basal,4,133,Rust,No treatment needed,9.75
+Coffee,Loamy,7.0 - 8.1,Aug,19.6,Compost,Top Dressing,5,161,Leaf Spot,Remove infected parts,9.36
+Apple,Alluvial,7.0 - 7.9,Aug,4.3,DAP,Basal,6,164,Blight,Apply neem extract,12.97
+Mustard,Loamy,6.5 - 7.7,Sep,20.7,Compost,Top Dressing,7,79,No major disease,No treatment needed,13.04
+Beetroot,Alluvial,6.4 - 8.1,Mar,8.2,DAP,Top Dressing,7,114,Downy Mildew,Apply neem extract,11.74
+Sugarcane,Black soil,5.8 - 7.8,Feb,26.2,NPK,Both,5,154,Root Rot,Apply neem extract,33.13
+Sunflower,Sandy loam,7.1 - 8.4,Nov,19.7,NPK,Both,5,112,Wilt,Apply neem extract,28.33
+Onion,Black soil,6.2 - 7.6,Apr,26.5,NPK,Both,2,88,Powdery Mildew,Use fungicide,34.82
+Rice,Sandy loam,7.3 - 8.1,May,5.3,DAP,Basal,5,94,No major disease,Spray insecticide,5.47
+Coffee,Clay,7.0 - 7.8,Jan,7.8,Vermicompost,Top Dressing,5,134,Leaf Spot,Apply neem extract,12.7
+Pearl Millet,Black soil,7.4 - 8.2,Feb,27.3,Vermicompost,Basal,2,168,Powdery Mildew,Use crop rotation,27.99
+Ginger,Loamy,6.9 - 8.3,Sep,12.1,Compost,Both,6,128,Stem Borer,Remove infected parts,17.68
+Tea,Clay,6.4 - 7.7,Jun,23.9,Compost,Basal,6,158,Downy Mildew,Apply neem extract,20.85
+Pineapple,Sandy loam,5.8 - 8.0,Mar,6.5,NPK,Both,7,163,Downy Mildew,No treatment needed,11.73
+Sesame,Black soil,6.5 - 8.0,Oct,21.8,NPK,Top Dressing,2,91,Leaf Spot,Apply neem extract,28.56
+Pearl Millet,Clay,6.6 - 8.5,Apr,11.6,Vermicompost,Basal,4,155,Stem Borer,Spray insecticide,32.22
+Barley,Alluvial,7.4 - 8.3,Mar,4.0,Compost,Both,4,137,Downy Mildew,No treatment needed,29.63
+Mango,Loamy,6.7 - 7.6,Dec,20.5,NPK,Both,6,71,Downy Mildew,No treatment needed,22.41
+Orange,Black soil,5.6 - 7.7,Aug,13.2,NPK,Basal,5,128,Rust,Apply neem extract,31.35
+Wheat,Sandy loam,5.6 - 8.0,Nov,15.4,Compost,Basal,2,139,Root Rot,Use fungicide,15.33
+Sorghum,Loamy,6.6 - 8.2,Jun,16.1,DAP,Top Dressing,7,103,Powdery Mildew,Spray insecticide,27.53
+Tea,Alluvial,6.2 - 8.1,May,14.4,Compost,Basal,8,104,Anthracnose,Apply neem extract,12.65
+Wheat,Alluvial,6.4 - 7.6,Nov,29.5,Compost,Top Dressing,4,126,Powdery Mildew,Use crop rotation,21.16
+Maize,Sandy loam,6.7 - 8.4,Apr,20.6,NPK,Top Dressing,6,78,Wilt,Use crop rotation,5.63
+Mango,Black soil,6.7 - 8.3,Feb,21.0,Compost,Top Dressing,7,163,Rust,Use fungicide,32.75
+Spinach,Sandy loam,5.9 - 8.2,Apr,19.6,Vermicompost,Both,7,175,Stem Borer,Use crop rotation,24.97
+Coffee,Loamy,5.8 - 8.0,Apr,16.9,Compost,Top Dressing,4,69,Powdery Mildew,Use crop rotation,32.73
+Pineapple,Loamy,7.0 - 8.3,Dec,14.3,Compost,Basal,2,143,Leaf Spot,Use crop rotation,10.4
+Rice,Loamy,6.6 - 8.4,Feb,21.8,Compost,Basal,7,72,Stem Borer,Apply neem extract,17.34
+Okra,Loamy,7.2 - 8.1,May,21.3,Urea,Basal,6,140,Downy Mildew,Remove infected parts,18.6
+Groundnut,Clay,5.6 - 7.8,Dec,18.7,Vermicompost,Both,2,164,No major disease,Use fungicide,21.05
+Wheat,Loamy,6.2 - 8.0,Sep,25.7,DAP,Basal,8,140,Wilt,Spray insecticide,34.93
+Green Gram,Alluvial,6.1 - 7.7,Feb,20.8,Vermicompost,Top Dressing,2,124,Blight,Remove infected parts,13.23
+Bottle Gourd,Clay,6.9 - 8.4,Oct,28.8,Compost,Basal,5,173,Root Rot,Spray insecticide,23.74
+Chickpea,Black soil,5.9 - 7.8,Feb,11.8,Vermicompost,Basal,4,173,Blight,No treatment needed,26.66
+Papaya,Alluvial,6.9 - 7.9,Dec,15.3,Vermicompost,Basal,8,172,Rust,Remove infected parts,17.6
+Mango,Black soil,7.5 - 7.9,May,16.2,DAP,Basal,5,76,Powdery Mildew,No treatment needed,33.81
+Groundnut,Loamy,6.6 - 7.8,Nov,24.6,DAP,Top Dressing,3,176,Stem Borer,No treatment needed,25.9
+Cotton,Alluvial,6.7 - 8.5,Sep,8.4,Vermicompost,Basal,6,108,Wilt,Use crop rotation,6.9
+Groundnut,Clay,5.5 - 8.4,Oct,27.5,Vermicompost,Top Dressing,3,135,Powdery Mildew,Spray insecticide,17.83
+Sorghum,Alluvial,6.5 - 8.0,Oct,29.5,NPK,Basal,7,148,Rust,Use fungicide,30.4
+Sorghum,Sandy loam,6.4 - 8.1,May,24.0,Urea,Both,4,127,Anthracnose,Use crop rotation,25.57
+Bottle Gourd,Clay,6.3 - 7.7,Jul,15.8,NPK,Basal,6,121,Powdery Mildew,Use crop rotation,9.64
+Radish,Loamy,6.2 - 8.4,May,11.5,Vermicompost,Top Dressing,3,123,No major disease,Use fungicide,30.12
+Carrot,Black soil,6.5 - 8.3,Jul,26.8,NPK,Basal,7,163,Anthracnose,Use fungicide,6.42
+Cauliflower,Alluvial,6.9 - 8.4,Sep,17.5,Urea,Basal,3,133,No major disease,Apply neem extract,31.86
+Brinjal,Alluvial,6.8 - 8.3,May,28.4,Compost,Top Dressing,3,180,Rust,Remove infected parts,16.98
+Radish,Clay,5.7 - 8.2,Apr,21.1,Compost,Top Dressing,7,65,Rust,No treatment needed,27.58
+Ginger,Black soil,5.8 - 8.0,Jun,11.3,Compost,Top Dressing,6,172,No major disease,Spray insecticide,6.09
+Banana,Clay,6.2 - 8.1,Mar,9.2,DAP,Top Dressing,3,151,No major disease,No treatment needed,16.91
+Cotton,Alluvial,5.8 - 8.3,Nov,13.7,Compost,Top Dressing,3,166,Anthracnose,Spray insecticide,7.16
+Sugarcane,Alluvial,6.4 - 7.9,Feb,25.8,Compost,Basal,7,132,Blight,Apply neem extract,27.06
+Barley,Clay,6.6 - 7.7,Apr,26.6,Vermicompost,Top Dressing,3,122,Rust,Apply neem extract,15.96
+Chili,Alluvial,6.7 - 8.2,Jun,17.7,Urea,Both,7,115,Wilt,Use fungicide,10.64
+Garlic,Black soil,7.2 - 8.0,May,27.6,Vermicompost,Both,2,61,No major disease,Remove infected parts,6.24
+Cotton,Black soil,7.0 - 8.5,Jul,29.5,Urea,Both,3,98,No major disease,Use crop rotation,13.81
+Orange,Clay,7.1 - 7.6,Oct,14.1,Compost,Both,5,115,Wilt,Spray insecticide,21.84
+Pearl Millet,Loamy,5.5 - 8.3,Jul,3.9,DAP,Basal,6,162,Wilt,Use fungicide,5.21
+Soybean,Alluvial,5.7 - 7.8,Jul,28.2,Urea,Basal,7,129,Stem Borer,Apply neem extract,10.24
+Sunflower,Loamy,6.6 - 8.4,Jan,23.8,Urea,Top Dressing,5,70,Blight,Spray insecticide,32.91
+Soybean,Alluvial,5.9 - 7.7,Dec,28.2,DAP,Both,3,168,Stem Borer,Use crop rotation,32.28
+Pineapple,Loamy,6.8 - 7.8,Nov,7.5,Compost,Top Dressing,4,149,Anthracnose,Apply neem extract,21.46
+Barley,Clay,6.9 - 8.4,Dec,12.9,DAP,Both,2,118,Blight,Apply neem extract,26.79
+Spinach,Alluvial,6.2 - 7.7,Sep,28.3,Vermicompost,Both,6,93,Root Rot,Remove infected parts,21.37
+Pineapple,Loamy,6.2 - 8.0,Sep,5.5,Urea,Both,6,133,Wilt,No treatment needed,21.25
+Wheat,Loamy,6.9 - 8.0,Apr,19.9,Compost,Top Dressing,6,108,Wilt,Use crop rotation,20.46
+Groundnut,Loamy,7.2 - 8.4,Mar,25.6,Compost,Both,7,97,Wilt,Spray insecticide,27.3
+Barley,Sandy loam,6.4 - 7.6,Oct,11.0,Compost,Both,4,124,Anthracnose,Use crop rotation,34.79
+Cabbage,Sandy loam,6.3 - 8.5,Feb,7.8,Compost,Top Dressing,5,63,Wilt,Spray insecticide,29.17
+Pineapple,Clay,6.7 - 8.2,Apr,27.0,Compost,Basal,5,170,Blight,Use crop rotation,21.71
+Radish,Clay,6.5 - 7.8,Feb,14.9,Compost,Basal,3,121,Downy Mildew,Spray insecticide,31.8
+Grapes,Clay,6.3 - 8.1,Apr,13.5,Compost,Both,5,153,Rust,Apply neem extract,21.49
+Groundnut,Sandy loam,5.7 - 7.7,Jan,29.2,Urea,Top Dressing,3,84,Rust,Spray insecticide,13.47
+Pearl Millet,Black soil,6.1 - 8.4,Mar,22.6,Compost,Both,5,131,Anthracnose,No treatment needed,11.57
+Bottle Gourd,Clay,7.0 - 7.7,May,12.1,NPK,Basal,7,121,Powdery Mildew,Spray insecticide,28.24
+Mango,Clay,6.6 - 8.1,Apr,14.4,Vermicompost,Both,8,90,Downy Mildew,Spray insecticide,6.51
+Sweet Corn,Black soil,7.5 - 8.1,Jun,24.1,NPK,Both,2,64,Anthracnose,Use fungicide,31.51
+Grapes,Alluvial,5.5 - 7.9,Feb,3.1,Compost,Basal,7,165,Powdery Mildew,Use crop rotation,22.56
+Mango,Sandy loam,7.3 - 8.3,Jul,10.0,DAP,Both,2,98,Stem Borer,Remove infected parts,22.44
+Lemon,Sandy loam,6.2 - 8.1,Feb,11.0,Vermicompost,Both,4,178,Anthracnose,No treatment needed,34.9
+Beetroot,Black soil,5.6 - 8.3,Sep,3.2,Vermicompost,Basal,5,152,Leaf Spot,Spray insecticide,31.74
+Wheat,Black soil,6.4 - 7.7,May,13.2,Urea,Basal,7,176,Wilt,Use fungicide,20.86
+Cotton,Sandy loam,7.5 - 8.3,May,8.2,DAP,Both,7,175,Leaf Spot,No treatment needed,29.73
+Grapes,Clay,6.9 - 8.4,May,11.3,DAP,Top Dressing,7,157,Stem Borer,Apply neem extract,5.81
+Bottle Gourd,Clay,7.1 - 7.7,Dec,27.2,Urea,Top Dressing,5,63,Powdery Mildew,Apply neem extract,25.14
+Coffee,Loamy,6.4 - 8.3,Dec,8.1,DAP,Basal,6,127,Anthracnose,Apply neem extract,7.38
+Sunflower,Alluvial,6.4 - 8.3,May,20.0,Vermicompost,Both,3,120,Root Rot,Apply neem extract,9.95
+Wheat,Loamy,7.0 - 8.1,Jun,18.8,NPK,Basal,6,146,Wilt,Remove infected parts,5.48
+Mustard,Black soil,6.0 - 8.1,May,9.1,Vermicompost,Basal,3,150,Blight,Use crop rotation,17.7
+Chili,Clay,7.0 - 7.7,Oct,9.3,DAP,Top Dressing,8,143,Root Rot,Apply neem extract,34.28
+Tea,Black soil,7.3 - 7.9,Feb,5.7,Urea,Top Dressing,5,153,Blight,Remove infected parts,22.88
+Beetroot,Alluvial,6.8 - 7.7,Apr,10.5,Compost,Both,5,155,Blight,Remove infected parts,12.32
+Lemon,Black soil,6.5 - 8.2,May,23.1,Urea,Basal,4,144,Leaf Spot,Spray insecticide,26.05
+Wheat,Sandy loam,7.4 - 8.3,Nov,26.1,DAP,Top Dressing,2,130,Blight,Use fungicide,17.64
+Garlic,Alluvial,5.6 - 8.4,Dec,22.5,Vermicompost,Top Dressing,4,101,Downy Mildew,Use crop rotation,6.73
+Cauliflower,Alluvial,5.5 - 7.9,Aug,19.7,DAP,Basal,3,158,Anthracnose,Apply neem extract,9.98
+Radish,Clay,7.4 - 8.1,Jan,27.1,Compost,Top Dressing,2,95,Rust,Use fungicide,32.85
+Ginger,Alluvial,5.9 - 8.4,Jan,7.0,Compost,Basal,7,93,Anthracnose,Use fungicide,33.07
+Orange,Sandy loam,7.0 - 7.8,Aug,7.3,DAP,Both,5,96,Leaf Spot,Apply neem extract,7.04
+Mango,Sandy loam,5.7 - 8.2,Feb,12.0,Vermicompost,Top Dressing,3,128,Leaf Spot,No treatment needed,15.91
+Papaya,Clay,6.8 - 7.8,Jul,10.7,Urea,Both,7,140,Downy Mildew,Use fungicide,19.99
+Rice,Loamy,7.1 - 7.6,Jun,21.3,Vermicompost,Basal,7,164,Root Rot,Use crop rotation,5.6
+Grapes,Black soil,7.3 - 8.1,Oct,13.6,Compost,Basal,5,162,Leaf Spot,Apply neem extract,32.88
+Bottle Gourd,Loamy,5.7 - 8.2,Apr,12.7,Urea,Both,7,161,Root Rot,Remove infected parts,27.03
+Lemon,Sandy loam,7.1 - 8.3,Apr,3.6,DAP,Basal,4,92,Root Rot,No treatment needed,23.42
+Pearl Millet,Loamy,6.2 - 8.0,Apr,15.7,Vermicompost,Basal,4,90,Anthracnose,Apply neem extract,6.99
+Chili,Clay,6.8 - 8.0,Feb,13.1,DAP,Both,2,116,Root Rot,Use crop rotation,24.19
+Pineapple,Sandy loam,6.7 - 8.0,Aug,4.9,Vermicompost,Top Dressing,2,131,Wilt,No treatment needed,7.21
+Carrot,Clay,5.7 - 8.1,Mar,13.8,Vermicompost,Basal,8,133,Root Rot,Use fungicide,10.59
+Grapes,Loamy,7.0 - 8.1,Jul,26.1,Vermicompost,Both,4,137,Blight,Remove infected parts,20.4
+Onion,Alluvial,5.8 - 7.8,Jan,11.1,Urea,Both,4,157,Wilt,Remove infected parts,14.01
+Wheat,Sandy loam,6.5 - 7.8,Nov,18.9,Urea,Both,5,103,Root Rot,Use crop rotation,16.55
+Sunflower,Alluvial,5.6 - 7.8,Apr,29.4,NPK,Both,8,80,Rust,Spray insecticide,22.7
+Okra,Alluvial,7.1 - 7.9,Jul,28.6,DAP,Basal,5,74,Wilt,Apply neem extract,32.84
+Finger Millet,Sandy loam,7.2 - 8.4,Dec,5.3,NPK,Basal,7,88,Anthracnose,Use crop rotation,33.65
+Potato,Sandy loam,7.2 - 8.5,Sep,3.0,Compost,Top Dressing,8,136,Wilt,Apply neem extract,27.1
+Rice,Clay,5.9 - 8.2,Sep,26.0,NPK,Both,4,149,Anthracnose,Use crop rotation,32.98
+Sesame,Alluvial,5.9 - 7.9,Sep,12.5,NPK,Top Dressing,6,100,Root Rot,Remove infected parts,15.24
+Banana,Black soil,5.7 - 8.4,Jun,13.6,Vermicompost,Top Dressing,5,151,Wilt,Spray insecticide,10.07
+Maize,Alluvial,6.1 - 8.0,Jun,17.3,Compost,Basal,6,114,Anthracnose,No treatment needed,10.71
+Potato,Alluvial,5.9 - 8.2,Sep,27.6,DAP,Both,5,165,Root Rot,Apply neem extract,14.05
+Sugarcane,Black soil,7.1 - 8.0,Sep,5.8,Compost,Top Dressing,6,162,No major disease,Remove infected parts,25.83
+Mango,Sandy loam,7.0 - 7.7,Mar,17.8,Vermicompost,Basal,4,81,Rust,Use fungicide,17.75
+Cotton,Loamy,5.8 - 8.3,May,17.4,Vermicompost,Top Dressing,3,135,Blight,Remove infected parts,19.24
+Ginger,Sandy loam,6.2 - 7.9,Nov,17.1,Compost,Top Dressing,5,148,Root Rot,Apply neem extract,22.35
+Ginger,Black soil,5.8 - 8.2,Sep,7.1,NPK,Top Dressing,3,125,No major disease,Use crop rotation,33.78
+Tea,Loamy,6.5 - 8.1,Apr,17.1,Urea,Basal,5,104,Root Rot,Use fungicide,16.38
+Lemon,Black soil,7.4 - 8.4,Feb,27.9,DAP,Top Dressing,4,92,Anthracnose,Apply neem extract,16.08
+Sweet Corn,Loamy,5.7 - 8.1,Dec,9.0,DAP,Basal,2,170,Rust,Spray insecticide,18.22
+Onion,Alluvial,6.4 - 8.2,Dec,26.9,NPK,Basal,4,61,Wilt,Remove infected parts,7.36
+Orange,Loamy,6.0 - 8.3,Jan,22.6,DAP,Both,2,149,Anthracnose,Use crop rotation,31.16
+Pearl Millet,Sandy loam,6.5 - 8.3,Oct,26.1,NPK,Top Dressing,7,64,Root Rot,Apply neem extract,16.12
+Black Gram,Sandy loam,7.2 - 8.0,Mar,23.2,DAP,Both,8,102,Anthracnose,Apply neem extract,24.93
+Cauliflower,Clay,6.8 - 7.8,Oct,26.5,NPK,Both,6,135,Powdery Mildew,Use fungicide,23.09
+Mango,Alluvial,6.0 - 8.3,Aug,12.5,NPK,Top Dressing,8,169,Powdery Mildew,Use fungicide,18.73
+Coriander,Loamy,7.0 - 8.3,Jan,28.0,Vermicompost,Both,5,157,Powdery Mildew,Use crop rotation,24.27
+Orange,Clay,6.8 - 8.5,Sep,21.6,DAP,Basal,3,87,Anthracnose,No treatment needed,8.96
+Coriander,Sandy loam,6.5 - 8.0,Dec,15.7,Vermicompost,Both,7,70,Anthracnose,No treatment needed,9.19
+Mango,Clay,6.2 - 8.4,Mar,26.2,DAP,Top Dressing,7,154,Leaf Spot,Remove infected parts,8.62
+Tomato,Alluvial,6.4 - 8.2,Oct,24.5,Compost,Both,3,147,Rust,Use fungicide,16.63
+Pumpkin,Sandy loam,6.5 - 7.9,Feb,20.2,Urea,Both,5,72,Leaf Spot,Remove infected parts,19.88
+Cabbage,Loamy,7.1 - 7.8,Dec,16.3,Urea,Basal,7,153,Downy Mildew,Remove infected parts,11.63
+Onion,Black soil,6.1 - 8.0,Jan,9.5,Vermicompost,Both,2,150,Rust,Spray insecticide,29.09
+Chili,Black soil,6.8 - 8.4,Mar,21.2,DAP,Top Dressing,6,128,Wilt,Use crop rotation,13.29
+Brinjal,Alluvial,6.9 - 8.0,Feb,17.2,Vermicompost,Both,5,62,Stem Borer,Remove infected parts,13.64
+Radish,Black soil,5.7 - 8.1,May,17.2,Vermicompost,Top Dressing,3,126,Wilt,No treatment needed,34.24
+Mustard,Loamy,5.6 - 7.9,Aug,21.9,Compost,Both,3,65,Powdery Mildew,Spray insecticide,29.22
+Rice,Alluvial,6.0 - 8.4,May,23.0,Compost,Both,5,137,Leaf Spot,Use fungicide,8.06
+Pumpkin,Loamy,6.9 - 7.9,Jan,29.5,NPK,Basal,5,89,Powdery Mildew,Use crop rotation,19.76
+Cabbage,Alluvial,7.5 - 8.0,Feb,22.8,Urea,Both,6,154,Powdery Mildew,Apply neem extract,7.89
+Grapes,Alluvial,6.6 - 7.9,Dec,29.5,Compost,Basal,3,174,Root Rot,Use crop rotation,11.49
+Onion,Loamy,6.9 - 7.7,Aug,23.5,DAP,Top Dressing,3,127,Rust,Spray insecticide,7.76
+Beetroot,Sandy loam,5.9 - 8.0,Sep,9.8,Compost,Basal,6,136,No major disease,Spray insecticide,7.15
+Cabbage,Clay,6.0 - 7.9,Dec,16.8,DAP,Both,6,156,Blight,Remove infected parts,19.13
+Bottle Gourd,Sandy loam,6.9 - 7.7,Oct,10.9,Compost,Top Dressing,4,69,Stem Borer,Remove infected parts,26.79
+Apple,Loamy,7.2 - 8.1,Mar,23.0,Compost,Both,6,115,Stem Borer,No treatment needed,9.2
+Sunflower,Alluvial,7.3 - 8.3,Nov,7.0,DAP,Top Dressing,7,135,Downy Mildew,Use crop rotation,21.45
+Black Gram,Clay,6.8 - 7.6,Sep,27.9,Vermicompost,Both,7,150,Leaf Spot,Remove infected parts,26.63
+Okra,Loamy,7.2 - 8.2,Mar,7.0,Urea,Top Dressing,3,107,Stem Borer,Remove infected parts,28.45
+Papaya,Alluvial,6.4 - 8.2,Jun,7.7,Vermicompost,Top Dressing,6,129,Wilt,Apply neem extract,28.94
+Green Gram,Alluvial,7.5 - 8.1,Oct,13.8,Compost,Both,5,162,No major disease,Remove infected parts,5.43
+Brinjal,Alluvial,7.4 - 8.4,Sep,8.6,Urea,Top Dressing,5,160,Downy Mildew,Use fungicide,14.63
+Maize,Loamy,5.7 - 7.8,Apr,19.9,Vermicompost,Basal,4,127,Blight,Remove infected parts,19.66
+Pigeon Pea,Sandy loam,7.2 - 8.0,Jun,29.8,DAP,Both,4,80,Anthracnose,Use crop rotation,24.68
+Sorghum,Loamy,6.2 - 7.7,May,29.4,Compost,Basal,7,122,Downy Mildew,No treatment needed,8.65
+Sunflower,Black soil,6.0 - 7.8,Jan,4.0,Vermicompost,Basal,5,68,Anthracnose,Use crop rotation,18.66
+Carrot,Clay,7.3 - 8.4,Jun,9.2,Vermicompost,Top Dressing,7,157,Rust,No treatment needed,7.74
+Black Gram,Loamy,7.5 - 8.2,Nov,23.8,NPK,Basal,5,75,Leaf Spot,Apply neem extract,19.17
+Maize,Clay,7.4 - 7.7,Jul,17.1,NPK,Both,6,78,Leaf Spot,No treatment needed,5.71
+Bottle Gourd,Sandy loam,7.4 - 7.6,Sep,6.4,NPK,Basal,2,80,No major disease,Spray insecticide,20.96
+Wheat,Alluvial,6.0 - 8.1,Oct,16.5,DAP,Both,2,152,Stem Borer,Use crop rotation,15.85
+Potato,Sandy loam,5.9 - 7.8,Dec,20.8,NPK,Top Dressing,6,107,No major disease,Use fungicide,8.59
+Chickpea,Alluvial,7.3 - 7.7,Aug,15.5,Vermicompost,Both,2,165,Powdery Mildew,No treatment needed,28.8
+Radish,Clay,6.6 - 8.3,Sep,17.5,Urea,Top Dressing,7,115,Stem Borer,Use crop rotation,32.04
+Radish,Black soil,6.5 - 7.7,Mar,20.4,Urea,Basal,7,105,No major disease,No treatment needed,10.94
+Garlic,Black soil,5.6 - 7.9,Mar,14.9,DAP,Both,5,105,Rust,Remove infected parts,24.11
+Cabbage,Loamy,6.9 - 8.2,Sep,14.7,Compost,Basal,5,91,Root Rot,Spray insecticide,22.38
+Mustard,Alluvial,7.1 - 8.0,Feb,20.9,NPK,Both,5,101,Root Rot,Use fungicide,16.06
+Radish,Alluvial,6.8 - 7.8,Oct,19.3,Compost,Both,3,106,Powdery Mildew,Spray insecticide,14.31
+Orange,Alluvial,7.0 - 7.8,Nov,28.5,DAP,Top Dressing,4,94,Anthracnose,Use crop rotation,22.22
+Pigeon Pea,Alluvial,5.9 - 7.7,Sep,15.4,NPK,Top Dressing,8,125,Blight,Use fungicide,15.65
+Wheat,Clay,7.5 - 8.5,Oct,26.9,Vermicompost,Top Dressing,5,179,Stem Borer,Use crop rotation,23.8
+Groundnut,Loamy,6.1 - 7.7,Jan,6.9,NPK,Basal,3,80,Root Rot,Apply neem extract,27.9
+Carrot,Alluvial,6.0 - 8.0,Feb,24.9,Vermicompost,Top Dressing,7,167,Powdery Mildew,Use fungicide,30.42
+Spinach,Clay,6.6 - 7.7,Jan,4.0,Compost,Basal,2,137,Wilt,Use crop rotation,21.46
+Orange,Alluvial,6.7 - 8.4,Apr,12.6,NPK,Basal,7,90,Downy Mildew,Apply neem extract,9.22
+Sorghum,Loamy,5.8 - 8.0,Aug,25.2,NPK,Top Dressing,8,85,Blight,Use fungicide,30.81
+Ginger,Sandy loam,6.9 - 7.7,Apr,24.8,Urea,Top Dressing,5,113,Powdery Mildew,Remove infected parts,16.51
+Pearl Millet,Black soil,6.4 - 7.6,Jan,22.1,Vermicompost,Top Dressing,2,66,Rust,Spray insecticide,10.54
+Barley,Alluvial,7.2 - 8.5,Jun,28.6,DAP,Both,5,169,Wilt,Use crop rotation,6.91
+Papaya,Clay,6.6 - 8.3,May,9.1,NPK,Basal,2,128,Anthracnose,Use crop rotation,20.86
+Finger Millet,Black soil,5.8 - 8.4,Oct,25.2,DAP,Basal,5,96,Anthracnose,Spray insecticide,8.24
+Barley,Black soil,5.6 - 7.7,Jul,22.8,NPK,Both,7,124,Leaf Spot,Use fungicide,27.9
+Green Gram,Black soil,7.0 - 8.1,Feb,17.4,NPK,Top Dressing,8,62,Leaf Spot,Apply neem extract,11.29
+Green Gram,Sandy loam,7.4 - 8.3,Dec,19.1,Vermicompost,Both,7,97,Stem Borer,Remove infected parts,21.93
+Tomato,Sandy loam,6.0 - 7.8,May,18.7,DAP,Top Dressing,7,176,No major disease,Remove infected parts,20.51
+Finger Millet,Black soil,6.1 - 8.3,May,27.7,DAP,Both,2,74,Powdery Mildew,Spray insecticide,11.21
+Chickpea,Clay,7.3 - 8.2,Nov,8.8,Vermicompost,Top Dressing,5,100,Anthracnose,No treatment needed,34.66
+Cauliflower,Loamy,5.5 - 7.8,Apr,22.2,DAP,Top Dressing,3,70,Anthracnose,Apply neem extract,27.44
+Brinjal,Sandy loam,6.8 - 7.9,Jan,21.9,Urea,Top Dressing,2,169,No major disease,Apply neem extract,5.81
+Finger Millet,Clay,7.2 - 8.2,May,17.2,Vermicompost,Top Dressing,5,117,Rust,Spray insecticide,21.87
+Okra,Clay,6.0 - 8.1,Aug,23.0,DAP,Both,3,121,Blight,No treatment needed,12.14
+Sugarcane,Sandy loam,6.7 - 8.0,Oct,8.7,DAP,Top Dressing,3,163,Leaf Spot,Use crop rotation,32.38
+Chickpea,Loamy,6.2 - 8.2,Dec,17.6,DAP,Basal,6,60,Leaf Spot,Spray insecticide,13.58
+Apple,Loamy,7.2 - 7.9,Aug,20.8,Urea,Top Dressing,7,149,Root Rot,Apply neem extract,11.16
+Sugarcane,Clay,7.4 - 8.1,May,29.3,Urea,Top Dressing,5,169,Wilt,Apply neem extract,32.15
+Carrot,Loamy,6.5 - 8.0,Dec,29.9,Vermicompost,Basal,2,165,Blight,Apply neem extract,32.91
+Cotton,Loamy,6.3 - 8.1,Aug,28.4,DAP,Basal,8,136,Wilt,Use crop rotation,32.72
+Papaya,Black soil,7.2 - 8.4,May,25.5,Compost,Top Dressing,7,112,Blight,Use fungicide,33.37
+Bottle Gourd,Sandy loam,6.4 - 8.5,Aug,7.2,NPK,Both,6,121,Leaf Spot,Spray insecticide,26.32
+Guava,Clay,6.1 - 7.7,Aug,13.1,Compost,Top Dressing,8,65,Leaf Spot,No treatment needed,21.72
+Ginger,Loamy,6.7 - 8.2,Sep,13.1,Vermicompost,Top Dressing,2,163,No major disease,Apply neem extract,31.05
+Finger Millet,Black soil,7.0 - 8.0,Feb,24.9,DAP,Basal,5,117,Stem Borer,Use crop rotation,5.28
+Grapes,Alluvial,6.4 - 7.9,Jan,13.1,Vermicompost,Top Dressing,5,122,No major disease,No treatment needed,9.11
+Cabbage,Loamy,5.6 - 8.5,Sep,12.7,Compost,Basal,2,73,No major disease,Use fungicide,15.58
+Chickpea,Black soil,6.2 - 7.9,Aug,3.7,Compost,Top Dressing,5,63,No major disease,Use crop rotation,12.0
+Maize,Clay,6.6 - 7.9,Jun,27.2,Vermicompost,Basal,6,80,Downy Mildew,Use crop rotation,25.09
+Sesame,Loamy,6.3 - 8.4,Jul,20.8,Vermicompost,Basal,5,69,Wilt,No treatment needed,15.26
+Wheat,Alluvial,6.3 - 7.7,Mar,4.9,Compost,Both,4,91,Blight,Use crop rotation,20.5
+Peas,Loamy,6.4 - 7.7,May,18.3,NPK,Top Dressing,3,90,Wilt,Remove infected parts,9.76
+Tomato,Sandy loam,6.7 - 7.9,May,16.6,Compost,Top Dressing,7,142,Downy Mildew,Use fungicide,14.07
+Bottle Gourd,Clay,5.9 - 8.1,Nov,24.4,Urea,Top Dressing,3,140,Root Rot,Spray insecticide,29.98
+Soybean,Clay,6.8 - 8.0,Mar,20.5,DAP,Top Dressing,3,74,Rust,Spray insecticide,34.35
+Sorghum,Sandy loam,5.9 - 8.5,Mar,25.0,DAP,Both,6,122,Stem Borer,Use fungicide,31.99
+Orange,Loamy,7.1 - 7.6,Apr,10.1,Compost,Top Dressing,6,114,Blight,Remove infected parts,26.68
+Apple,Sandy loam,6.4 - 7.8,Jun,23.7,Vermicompost,Both,5,147,Root Rot,Apply neem extract,22.39
+Tea,Clay,7.3 - 8.0,Jul,26.7,DAP,Top Dressing,3,140,Wilt,No treatment needed,10.69
+Ginger,Clay,5.8 - 7.8,Jul,8.1,Vermicompost,Basal,5,85,Powdery Mildew,No treatment needed,33.21
+Pigeon Pea,Alluvial,6.8 - 8.3,Sep,11.2,Urea,Both,6,133,Root Rot,No treatment needed,22.89
+Sweet Corn,Alluvial,6.6 - 7.6,Aug,13.2,Compost,Basal,7,152,Blight,Spray insecticide,9.39
+Papaya,Black soil,5.8 - 7.7,May,16.7,Urea,Basal,5,154,Leaf Spot,Spray insecticide,22.35
+Okra,Black soil,6.2 - 8.3,Aug,26.2,Vermicompost,Basal,5,162,No major disease,Spray insecticide,19.68
+Barley,Sandy loam,7.3 - 8.4,Nov,8.4,Compost,Top Dressing,6,119,Anthracnose,Use crop rotation,10.34
+Tomato,Clay,7.2 - 7.8,Oct,17.7,Compost,Basal,6,139,Downy Mildew,No treatment needed,13.82
+Rice,Alluvial,7.5 - 7.8,Aug,5.3,NPK,Both,4,142,Powdery Mildew,Use crop rotation,29.4
+Maize,Sandy loam,6.2 - 8.1,Sep,15.9,Vermicompost,Basal,8,78,No major disease,No treatment needed,26.63
+Okra,Clay,7.0 - 7.8,Sep,13.8,Urea,Basal,5,81,Anthracnose,No treatment needed,5.22
+Black Gram,Black soil,6.9 - 7.9,Feb,4.3,DAP,Top Dressing,5,73,Anthracnose,No treatment needed,33.4
+Barley,Alluvial,5.9 - 7.9,Dec,19.6,Compost,Basal,7,177,Wilt,Spray insecticide,12.61
+Tea,Black soil,5.8 - 8.2,May,4.2,NPK,Both,2,75,Anthracnose,Spray insecticide,6.99
+Garlic,Sandy loam,6.4 - 8.5,May,21.7,Urea,Basal,2,129,No major disease,Use crop rotation,9.79
+Wheat,Sandy loam,7.4 - 8.3,Sep,4.1,DAP,Top Dressing,8,147,Wilt,No treatment needed,19.08
+Barley,Black soil,7.2 - 8.4,Nov,23.8,Urea,Top Dressing,5,121,Stem Borer,Use crop rotation,18.82
+Groundnut,Loamy,6.1 - 8.2,Sep,8.2,Urea,Top Dressing,3,167,Stem Borer,Spray insecticide,23.11
+Garlic,Clay,6.6 - 8.0,Sep,12.3,Vermicompost,Top Dressing,3,142,Downy Mildew,Use crop rotation,5.21
+Carrot,Sandy loam,6.1 - 8.2,Mar,25.3,DAP,Basal,6,153,No major disease,Spray insecticide,33.06
+Cauliflower,Black soil,6.2 - 8.1,Aug,26.6,DAP,Both,3,130,Stem Borer,Spray insecticide,15.11
+Sugarcane,Alluvial,5.8 - 7.8,Jun,26.7,Vermicompost,Basal,4,67,Wilt,Spray insecticide,26.91
+Wheat,Sandy loam,5.7 - 8.0,Nov,15.1,Compost,Both,8,75,No major disease,Spray insecticide,16.79
+Chili,Alluvial,6.5 - 8.3,Aug,4.3,DAP,Basal,7,164,Rust,No treatment needed,5.09
+Orange,Alluvial,6.2 - 8.4,Sep,8.6,Vermicompost,Top Dressing,2,117,Rust,Apply neem extract,34.9
+Chickpea,Clay,7.3 - 8.1,May,8.0,DAP,Basal,4,79,Wilt,No treatment needed,13.05
+Sweet Corn,Sandy loam,7.2 - 8.3,Nov,5.4,DAP,Both,8,87,Rust,Use fungicide,9.75
+Sunflower,Loamy,7.2 - 8.1,Jul,16.4,NPK,Both,3,112,No major disease,Use fungicide,27.92
+Peas,Loamy,6.8 - 7.7,Sep,5.8,NPK,Both,2,109,No major disease,No treatment needed,30.13
+Turmeric,Alluvial,6.9 - 8.0,May,24.3,NPK,Basal,7,80,Blight,Remove infected parts,22.12
+Beetroot,Clay,5.5 - 8.4,Jul,14.1,DAP,Basal,8,140,Stem Borer,Remove infected parts,33.35
+Soybean,Loamy,6.8 - 7.6,Apr,6.1,Urea,Top Dressing,6,92,Rust,Use fungicide,34.13
+Potato,Loamy,6.7 - 7.9,Oct,13.9,Urea,Basal,7,91,Downy Mildew,Use fungicide,27.09
+Cabbage,Clay,6.2 - 7.8,Feb,18.4,Compost,Top Dressing,3,120,No major disease,Use crop rotation,9.19
+Sunflower,Loamy,6.2 - 8.1,Aug,18.3,Compost,Both,5,166,No major disease,Remove infected parts,33.94
+Pigeon Pea,Sandy loam,6.6 - 7.8,Dec,28.9,Compost,Basal,4,84,Rust,Use crop rotation,33.14
+Pineapple,Black soil,6.9 - 7.7,Dec,5.0,Urea,Both,8,142,No major disease,No treatment needed,23.59
+Sugarcane,Sandy loam,6.9 - 8.1,Sep,7.0,Urea,Both,5,140,Blight,Use fungicide,25.8
+Cabbage,Alluvial,5.9 - 8.5,Mar,22.0,Vermicompost,Both,2,125,Leaf Spot,Use fungicide,20.43
+Sorghum,Clay,7.3 - 8.1,Feb,26.3,Compost,Top Dressing,5,157,Rust,No treatment needed,31.07
+Sugarcane,Loamy,6.1 - 7.8,Jul,15.6,Vermicompost,Basal,5,133,Anthracnose,Spray insecticide,20.31
+Lemon,Sandy loam,6.8 - 8.0,Jul,14.4,DAP,Basal,3,98,Downy Mildew,No treatment needed,18.57
+Turmeric,Clay,7.5 - 8.4,Dec,17.0,NPK,Both,8,82,Wilt,Remove infected parts,25.69
+Ginger,Alluvial,5.7 - 8.2,Jul,13.4,DAP,Basal,4,80,Blight,Spray insecticide,23.9
+Rice,Sandy loam,6.5 - 8.0,Nov,28.4,Vermicompost,Top Dressing,6,104,Powdery Mildew,Use crop rotation,17.91
+Radish,Sandy loam,7.1 - 8.5,Feb,25.3,Vermicompost,Both,6,86,Powdery Mildew,Use crop rotation,20.66
+Green Gram,Loamy,6.9 - 8.1,Jan,22.7,Urea,Both,3,165,Powdery Mildew,Spray insecticide,19.3
+Sesame,Clay,6.8 - 8.0,Feb,19.9,NPK,Basal,3,157,Downy Mildew,Use fungicide,17.35
+Radish,Clay,7.4 - 8.2,Oct,9.7,Vermicompost,Basal,5,83,Stem Borer,Remove infected parts,23.3
+Mango,Loamy,5.5 - 8.3,Sep,24.3,Vermicompost,Both,3,86,Anthracnose,No treatment needed,23.57
+Coriander,Loamy,6.8 - 8.3,Apr,10.7,NPK,Basal,3,78,Leaf Spot,Apply neem extract,14.93
+Pearl Millet,Loamy,5.6 - 7.7,Jun,3.3,Compost,Top Dressing,6,162,No major disease,Remove infected parts,9.23
+Sorghum,Sandy loam,7.2 - 7.8,Aug,27.9,Compost,Basal,8,69,No major disease,No treatment needed,21.22
+Sorghum,Black soil,6.4 - 8.5,Jan,14.5,Vermicompost,Both,8,156,Wilt,Use fungicide,30.44
+Sunflower,Clay,7.0 - 8.2,Nov,18.6,Compost,Both,3,72,Leaf Spot,Remove infected parts,15.14
+Finger Millet,Loamy,6.9 - 7.6,Apr,19.8,DAP,Basal,2,86,Stem Borer,Apply neem extract,25.42
+Sugarcane,Sandy loam,7.0 - 8.0,Mar,13.6,Urea,Top Dressing,8,115,No major disease,Remove infected parts,15.17
+Green Gram,Loamy,5.6 - 7.6,Oct,14.7,Compost,Top Dressing,7,105,No major disease,No treatment needed,32.98
+Garlic,Black soil,6.0 - 8.0,May,9.0,NPK,Both,2,142,Wilt,Spray insecticide,15.68
+Lemon,Alluvial,5.7 - 8.1,Jun,16.2,DAP,Both,3,68,Stem Borer,Apply neem extract,10.26
+Bottle Gourd,Clay,7.3 - 8.2,Sep,10.7,Urea,Top Dressing,3,152,Downy Mildew,No treatment needed,23.82
+Maize,Loamy,7.0 - 7.8,Sep,11.8,Compost,Basal,6,136,Blight,Use fungicide,15.66
+Beetroot,Sandy loam,7.4 - 7.9,Mar,11.8,Vermicompost,Both,8,95,No major disease,No treatment needed,24.89
+Pumpkin,Black soil,7.2 - 8.3,May,21.6,Vermicompost,Both,2,81,Stem Borer,No treatment needed,31.69
+Turmeric,Alluvial,6.7 - 8.3,Jul,12.5,NPK,Top Dressing,5,151,Leaf Spot,Use crop rotation,10.32
+Okra,Loamy,6.6 - 8.4,Jan,28.0,Vermicompost,Both,4,124,Stem Borer,Apply neem extract,18.56
+Mango,Black soil,5.7 - 8.3,Jun,13.4,DAP,Basal,3,125,Rust,Spray insecticide,28.53
+Chili,Loamy,7.4 - 8.3,Jul,7.3,DAP,Top Dressing,7,163,Downy Mildew,Use crop rotation,27.09
+Ginger,Loamy,6.9 - 8.1,Mar,25.1,DAP,Top Dressing,6,173,Root Rot,Apply neem extract,23.03
+Sweet Corn,Sandy loam,6.5 - 7.6,Apr,15.7,Compost,Top Dressing,8,168,Rust,Spray insecticide,15.91
+Papaya,Loamy,6.7 - 7.9,Dec,19.7,Vermicompost,Basal,3,116,Powdery Mildew,Use fungicide,33.68
+Cauliflower,Sandy loam,6.2 - 7.6,Feb,24.8,Vermicompost,Basal,4,124,Leaf Spot,No treatment needed,13.96
+Wheat,Black soil,6.7 - 8.4,Sep,3.8,Compost,Both,5,93,Leaf Spot,Remove infected parts,30.69
+Pineapple,Sandy loam,6.9 - 8.2,Jul,18.6,Vermicompost,Basal,2,86,Wilt,Remove infected parts,21.23
+Sunflower,Black soil,6.2 - 8.1,Sep,6.9,Urea,Both,6,177,Wilt,Spray insecticide,5.04
+Banana,Alluvial,6.9 - 8.4,Apr,26.5,Vermicompost,Top Dressing,2,176,Anthracnose,Spray insecticide,15.1
+Pigeon Pea,Loamy,7.3 - 8.4,Jun,10.5,NPK,Top Dressing,4,162,Leaf Spot,Spray insecticide,23.67
+Turmeric,Sandy loam,7.1 - 7.7,Jun,20.8,Vermicompost,Basal,3,108,Stem Borer,Apply neem extract,16.7
+Spinach,Clay,5.8 - 7.6,Dec,14.2,Urea,Basal,7,127,Rust,Apply neem extract,24.11
+Wheat,Loamy,7.0 - 7.6,Feb,10.0,Urea,Both,3,84,Downy Mildew,Remove infected parts,23.93
+Okra,Clay,7.1 - 8.3,Sep,13.8,Vermicompost,Both,7,121,Downy Mildew,Use crop rotation,20.77
+Soybean,Sandy loam,7.4 - 7.8,Jul,11.8,Urea,Top Dressing,6,179,Anthracnose,Apply neem extract,32.77
+Pineapple,Alluvial,5.8 - 7.9,Sep,13.8,Compost,Basal,4,133,No major disease,Remove infected parts,14.34
+Finger Millet,Black soil,6.7 - 7.9,Jun,16.9,DAP,Top Dressing,3,110,Leaf Spot,No treatment needed,27.95
+Chickpea,Alluvial,7.0 - 7.7,Apr,24.1,DAP,Basal,5,102,Anthracnose,Remove infected parts,28.77
+Tomato,Loamy,6.3 - 8.3,Jul,27.5,Urea,Both,7,91,Leaf Spot,Apply neem extract,16.24
+Ginger,Loamy,6.1 - 7.6,Apr,9.2,Vermicompost,Top Dressing,2,161,Rust,Apply neem extract,14.43
+Groundnut,Clay,6.6 - 7.7,Jun,19.6,NPK,Both,3,124,Leaf Spot,Remove infected parts,22.0
+Banana,Sandy loam,6.6 - 8.1,Jul,22.3,Compost,Basal,8,105,Blight,Apply neem extract,25.04
+Cotton,Alluvial,6.3 - 8.0,Jun,13.8,NPK,Both,8,170,Blight,Use crop rotation,12.89
+Papaya,Loamy,7.1 - 8.2,Dec,11.9,Compost,Basal,3,169,No major disease,Spray insecticide,16.46
+Carrot,Clay,7.1 - 8.1,Oct,14.6,NPK,Both,7,175,Root Rot,Use crop rotation,9.87
+Grapes,Sandy loam,6.8 - 8.0,Feb,10.9,NPK,Top Dressing,4,170,Anthracnose,Spray insecticide,10.4
+Garlic,Alluvial,7.4 - 7.8,Aug,21.3,Vermicompost,Basal,6,133,Leaf Spot,Use crop rotation,20.48
+Radish,Alluvial,5.7 - 8.0,Sep,8.1,Compost,Top Dressing,8,164,No major disease,Spray insecticide,23.74
+Onion,Clay,7.5 - 7.9,Apr,12.6,Vermicompost,Both,3,63,Stem Borer,Use fungicide,8.88
+Apple,Loamy,7.4 - 8.4,Aug,18.0,Vermicompost,Top Dressing,7,122,Root Rot,Apply neem extract,12.99
+Pigeon Pea,Clay,7.2 - 8.2,Jan,9.8,Vermicompost,Top Dressing,7,147,Root Rot,No treatment needed,11.19
+Radish,Sandy loam,7.3 - 8.3,Dec,8.1,NPK,Both,7,63,Leaf Spot,No treatment needed,19.39
+Sunflower,Alluvial,6.0 - 7.7,Mar,14.6,Vermicompost,Basal,5,132,Stem Borer,No treatment needed,34.56
+Onion,Black soil,5.6 - 7.9,Aug,21.7,DAP,Top Dressing,5,164,Powdery Mildew,Remove infected parts,5.83
+Potato,Loamy,6.5 - 7.8,Dec,13.4,Urea,Basal,5,164,No major disease,Remove infected parts,5.94
+Orange,Alluvial,6.3 - 8.5,Dec,16.7,NPK,Both,4,169,No major disease,Apply neem extract,13.15
+Chili,Sandy loam,6.1 - 8.4,Mar,4.4,NPK,Both,5,130,Anthracnose,No treatment needed,28.2
+Apple,Clay,6.6 - 8.0,Jul,19.9,DAP,Both,8,145,Rust,No treatment needed,21.38
+Wheat,Sandy loam,6.4 - 7.9,Nov,26.9,Vermicompost,Both,2,131,Downy Mildew,Spray insecticide,28.12
+Coffee,Black soil,6.9 - 7.6,Apr,17.0,DAP,Both,4,81,Stem Borer,Spray insecticide,6.34
+Sunflower,Black soil,7.4 - 7.8,Nov,10.7,Compost,Both,4,73,Blight,Use crop rotation,18.63
+Barley,Black soil,5.7 - 7.6,Oct,27.3,NPK,Both,4,80,Root Rot,Use fungicide,21.58
+Peas,Black soil,6.7 - 7.9,Jul,21.6,Vermicompost,Top Dressing,8,89,Anthracnose,Remove infected parts,24.37
+Coriander,Alluvial,7.4 - 7.8,Dec,18.9,Vermicompost,Both,7,74,Wilt,No treatment needed,13.02
+Brinjal,Alluvial,6.4 - 8.1,Mar,15.5,Urea,Basal,5,67,Anthracnose,Use fungicide,11.59
+Green Gram,Loamy,7.1 - 8.4,Feb,11.8,NPK,Basal,8,110,Anthracnose,Spray insecticide,20.65
+Green Gram,Sandy loam,5.8 - 8.0,Apr,4.5,DAP,Both,8,91,Rust,Use fungicide,31.06
+Lemon,Clay,7.5 - 7.9,Feb,16.0,Vermicompost,Both,3,141,Rust,Spray insecticide,34.91
+Guava,Alluvial,5.7 - 7.9,Mar,17.6,NPK,Basal,7,169,Leaf Spot,Remove infected parts,30.09
+Sorghum,Alluvial,6.8 - 8.2,Jul,20.0,Vermicompost,Top Dressing,7,137,Downy Mildew,Use crop rotation,24.69
+Grapes,Loamy,7.3 - 8.1,Apr,17.3,Urea,Both,3,110,Powdery Mildew,Use crop rotation,16.26
+Black Gram,Sandy loam,7.2 - 7.8,Oct,17.9,NPK,Both,3,97,Downy Mildew,Apply neem extract,24.63
+Peas,Loamy,7.5 - 8.3,Jul,26.8,NPK,Top Dressing,6,61,Anthracnose,Use fungicide,24.34
+Mango,Clay,5.8 - 8.0,Nov,11.3,Vermicompost,Basal,2,90,Powdery Mildew,Apply neem extract,9.71
+Onion,Black soil,6.9 - 8.0,May,29.8,Compost,Top Dressing,8,96,Stem Borer,Use fungicide,14.18
+Cotton,Loamy,6.9 - 7.8,Feb,5.2,DAP,Basal,7,99,Wilt,Use fungicide,5.02
+Spinach,Loamy,5.8 - 7.9,Jul,11.0,Vermicompost,Basal,4,99,Anthracnose,Remove infected parts,10.27
+Spinach,Clay,6.1 - 8.4,Apr,9.0,NPK,Top Dressing,5,152,Root Rot,Spray insecticide,19.06
+Sugarcane,Loamy,5.9 - 8.4,Oct,6.5,NPK,Both,3,120,No major disease,Spray insecticide,26.68
+Coriander,Loamy,6.5 - 7.7,Aug,12.5,Compost,Top Dressing,6,68,Powdery Mildew,Remove infected parts,7.62
+Apple,Loamy,7.2 - 7.6,Feb,4.5,Vermicompost,Both,4,113,No major disease,Apply neem extract,10.98
+Black Gram,Alluvial,6.8 - 7.7,Dec,26.6,Urea,Both,2,102,Leaf Spot,Use crop rotation,16.42
+Pigeon Pea,Loamy,6.5 - 8.1,Sep,16.0,NPK,Both,6,174,Wilt,Use fungicide,6.68
+Ginger,Loamy,6.3 - 8.2,Feb,28.7,DAP,Basal,4,99,No major disease,Spray insecticide,6.16
+Pearl Millet,Alluvial,5.6 - 7.7,Aug,13.1,Vermicompost,Both,7,172,Powdery Mildew,No treatment needed,19.02
+Grapes,Black soil,6.2 - 7.8,Sep,25.7,Urea,Top Dressing,3,64,Anthracnose,Use fungicide,7.94
+Pearl Millet,Sandy loam,7.3 - 7.9,Feb,16.8,Vermicompost,Top Dressing,7,97,Stem Borer,Apply neem extract,14.87
+Tea,Loamy,7.1 - 8.0,Mar,17.4,Compost,Basal,7,74,No major disease,Use fungicide,7.73
+Tomato,Alluvial,6.9 - 7.7,Jul,22.5,Compost,Both,6,107,Rust,Remove infected parts,33.22
+Apple,Black soil,7.5 - 8.2,Feb,9.3,Vermicompost,Both,7,70,Wilt,Use fungicide,25.26
+Finger Millet,Black soil,6.0 - 8.2,Oct,7.1,Urea,Both,5,125,Anthracnose,No treatment needed,7.12
+Sesame,Sandy loam,5.9 - 7.8,May,26.2,DAP,Basal,6,150,Leaf Spot,Use fungicide,16.7
+Pineapple,Loamy,5.9 - 8.3,May,19.2,NPK,Basal,7,178,Downy Mildew,Remove infected parts,29.56
+Sesame,Black soil,7.5 - 8.3,Oct,10.0,Vermicompost,Basal,5,61,No major disease,No treatment needed,31.7
+Cabbage,Black soil,6.3 - 8.2,May,10.4,Vermicompost,Both,4,144,Blight,Spray insecticide,25.33
+Beetroot,Sandy loam,7.3 - 7.9,Aug,18.4,Compost,Basal,6,148,Powdery Mildew,Use fungicide,15.13
+Orange,Alluvial,5.7 - 7.9,Aug,22.1,DAP,Both,6,83,No major disease,Use fungicide,24.45
+Apple,Clay,5.8 - 8.2,May,12.6,Vermicompost,Basal,7,163,No major disease,No treatment needed,18.61
+Lemon,Black soil,6.9 - 8.0,Feb,10.7,Compost,Basal,7,169,Blight,Use crop rotation,18.77
+Wheat,Sandy loam,6.0 - 8.4,Dec,25.0,Urea,Basal,6,76,No major disease,Use fungicide,26.27
+Grapes,Alluvial,6.6 - 8.1,Sep,6.1,DAP,Basal,7,170,Stem Borer,Use crop rotation,5.58
+Chili,Black soil,7.3 - 8.5,Apr,9.4,NPK,Basal,4,117,Wilt,No treatment needed,14.71
+Chickpea,Clay,5.7 - 8.4,Jun,20.2,Compost,Both,5,101,Blight,Remove infected parts,7.96
+Pearl Millet,Loamy,6.3 - 8.1,Jul,15.7,Compost,Top Dressing,4,152,Rust,Apply neem extract,21.59
+Groundnut,Clay,7.2 - 7.9,Apr,14.0,DAP,Basal,7,133,Downy Mildew,Use fungicide,14.55
+Groundnut,Black soil,7.2 - 8.1,Nov,8.7,DAP,Both,4,160,Powdery Mildew,Use fungicide,14.23
+Maize,Alluvial,7.0 - 8.1,Oct,7.6,Compost,Basal,8,163,Rust,Use fungicide,24.2
+Chili,Alluvial,5.8 - 7.7,Sep,28.4,Vermicompost,Top Dressing,2,168,Root Rot,Use fungicide,34.82
+Turmeric,Sandy loam,6.9 - 8.1,Nov,15.4,Urea,Both,6,77,Stem Borer,Use crop rotation,10.8
+Pineapple,Loamy,7.2 - 7.6,May,3.1,Compost,Top Dressing,7,142,Leaf Spot,Spray insecticide,17.44
+Green Gram,Black soil,6.9 - 8.1,May,29.5,DAP,Top Dressing,2,98,Blight,Remove infected parts,17.63
+Apple,Black soil,5.8 - 7.9,Dec,24.3,Vermicompost,Top Dressing,5,93,Blight,No treatment needed,21.53
+Okra,Clay,5.9 - 7.7,Sep,14.6,Vermicompost,Both,6,150,Wilt,Apply neem extract,19.21
+Cabbage,Sandy loam,6.9 - 7.8,Aug,15.3,Compost,Basal,5,154,No major disease,Spray insecticide,27.71
+Onion,Loamy,6.8 - 7.8,Oct,3.3,Compost,Both,3,79,Wilt,Spray insecticide,22.28
+Coriander,Loamy,5.9 - 7.6,Mar,13.9,Urea,Basal,3,64,Anthracnose,Apply neem extract,17.05
+Potato,Black soil,6.5 - 7.9,Sep,3.7,NPK,Both,3,159,Powdery Mildew,Apply neem extract,16.01
+Onion,Loamy,7.4 - 7.7,Jan,4.4,Urea,Both,8,168,Root Rot,Remove infected parts,23.59
+Mustard,Black soil,6.8 - 7.7,Jun,10.6,DAP,Both,8,150,No major disease,Use fungicide,21.2
+Apple,Clay,6.9 - 8.4,Oct,22.7,DAP,Basal,7,102,Leaf Spot,No treatment needed,24.82
+Potato,Loamy,6.9 - 8.5,Mar,7.2,DAP,Both,8,125,Leaf Spot,Apply neem extract,13.72
+Coriander,Alluvial,6.5 - 7.6,Oct,4.3,Urea,Both,2,163,Rust,Remove infected parts,26.27
+Carrot,Loamy,6.0 - 8.3,Aug,14.9,DAP,Basal,3,177,Wilt,Use crop rotation,13.0
+Ginger,Loamy,6.0 - 8.3,Jan,11.5,Urea,Both,5,137,Blight,Use fungicide,10.03
+Soybean,Loamy,6.8 - 7.9,Jul,19.2,Compost,Both,7,159,Blight,Use fungicide,17.65
+Sugarcane,Clay,6.2 - 8.2,Nov,5.6,NPK,Both,2,165,Rust,Spray insecticide,34.03
+Ginger,Black soil,6.8 - 7.8,Nov,11.8,DAP,Basal,8,106,Rust,Use fungicide,12.47
+Turmeric,Sandy loam,5.9 - 8.3,Oct,19.7,Compost,Basal,3,171,Root Rot,Spray insecticide,19.02
+Guava,Black soil,5.5 - 7.7,Aug,21.8,Urea,Basal,3,94,No major disease,Use fungicide,28.09
+Finger Millet,Clay,6.4 - 7.9,Jun,9.6,DAP,Top Dressing,4,90,Root Rot,Remove infected parts,17.27
+Potato,Loamy,6.0 - 7.6,Feb,27.6,DAP,Both,6,175,Leaf Spot,Remove infected parts,10.92
+Maize,Clay,6.5 - 8.0,Nov,9.8,Urea,Top Dressing,8,106,Downy Mildew,Use crop rotation,23.26
+Pumpkin,Alluvial,7.2 - 7.9,Dec,29.3,DAP,Both,4,154,Rust,Use crop rotation,6.71
+Beetroot,Black soil,6.2 - 7.9,Mar,22.8,Vermicompost,Both,2,151,Blight,Use fungicide,8.81
+Groundnut,Loamy,5.7 - 8.4,May,21.5,NPK,Basal,7,167,Wilt,Use crop rotation,7.94
+Onion,Sandy loam,6.9 - 8.2,Apr,5.7,Compost,Top Dressing,6,143,Wilt,Use fungicide,13.15
+Maize,Sandy loam,6.4 - 8.0,Aug,16.2,NPK,Top Dressing,2,65,Wilt,Use crop rotation,9.43
+Pearl Millet,Loamy,6.5 - 7.8,Sep,10.4,NPK,Basal,6,77,Rust,Use crop rotation,26.0
+Grapes,Black soil,6.2 - 8.2,Jan,17.5,Vermicompost,Top Dressing,5,128,No major disease,Apply neem extract,24.13
+Guava,Alluvial,7.0 - 7.9,Sep,21.9,DAP,Both,2,75,Rust,Use fungicide,5.22
+Finger Millet,Loamy,5.8 - 7.6,Sep,29.8,Urea,Both,4,160,Stem Borer,Use crop rotation,5.47
+Grapes,Alluvial,5.9 - 8.0,Jul,6.1,Compost,Top Dressing,5,120,Powdery Mildew,Spray insecticide,19.51
+Carrot,Sandy loam,7.3 - 8.1,Jul,13.5,Compost,Basal,5,120,Powdery Mildew,No treatment needed,28.26
+Guava,Black soil,5.7 - 7.8,Apr,9.1,DAP,Top Dressing,3,143,Anthracnose,Apply neem extract,20.93
+Guava,Black soil,5.5 - 7.7,Jan,25.9,NPK,Basal,4,85,Stem Borer,Use crop rotation,21.36
+Mango,Sandy loam,6.2 - 8.3,Dec,20.6,Compost,Basal,5,129,Downy Mildew,Apply neem extract,27.94
+Pigeon Pea,Sandy loam,7.4 - 7.6,Sep,20.9,Vermicompost,Basal,3,179,Wilt,Use crop rotation,13.74
+Apple,Loamy,5.8 - 8.0,Jul,7.0,Vermicompost,Both,6,159,Wilt,No treatment needed,24.85
+Radish,Loamy,7.1 - 7.7,Jan,3.3,DAP,Both,3,180,Powdery Mildew,No treatment needed,8.12
+Orange,Sandy loam,5.8 - 8.2,Jun,27.5,DAP,Top Dressing,7,60,Blight,Spray insecticide,30.12
+Green Gram,Black soil,7.4 - 7.9,Jun,13.4,Compost,Basal,4,127,Downy Mildew,Spray insecticide,26.01
+Sunflower,Sandy loam,7.4 - 7.9,Mar,14.2,Compost,Both,5,180,Anthracnose,Use fungicide,17.84
+Sesame,Black soil,7.5 - 8.1,Aug,14.7,Compost,Both,5,165,Downy Mildew,No treatment needed,16.18
+Pineapple,Sandy loam,6.1 - 8.0,May,8.8,Vermicompost,Both,7,155,Blight,Use fungicide,34.76
+Spinach,Loamy,6.6 - 8.3,Dec,20.3,Urea,Top Dressing,3,167,Downy Mildew,Use fungicide,23.13
+Coffee,Loamy,7.1 - 8.1,Aug,3.9,DAP,Basal,3,129,Rust,No treatment needed,33.92
+Peas,Black soil,6.5 - 8.2,Feb,19.6,Urea,Top Dressing,7,136,Stem Borer,Use crop rotation,11.16
+Chili,Loamy,5.7 - 7.7,Jan,9.4,Vermicompost,Basal,2,141,Root Rot,Remove infected parts,33.27
+Grapes,Alluvial,6.3 - 8.1,Sep,28.3,Urea,Both,7,116,Powdery Mildew,Remove infected parts,18.15
+Cotton,Clay,5.9 - 7.6,Dec,12.2,Vermicompost,Basal,6,124,Powdery Mildew,Use crop rotation,26.03
+Barley,Alluvial,5.8 - 8.2,Oct,17.2,Urea,Both,2,103,Leaf Spot,Use crop rotation,11.31
+Coffee,Loamy,7.1 - 7.8,May,17.5,Vermicompost,Both,8,98,Root Rot,No treatment needed,25.51
+Coriander,Sandy loam,6.2 - 8.1,Jun,14.7,NPK,Both,3,133,Anthracnose,Spray insecticide,11.65
+Lemon,Loamy,5.7 - 7.6,Dec,5.2,DAP,Both,2,95,No major disease,Use crop rotation,30.87
+Garlic,Alluvial,6.8 - 8.0,Jun,16.3,DAP,Both,8,74,Blight,Remove infected parts,5.73
+Sesame,Alluvial,7.1 - 8.0,Mar,8.5,Compost,Top Dressing,4,66,Anthracnose,Spray insecticide,26.47
+Green Gram,Clay,7.3 - 8.5,Jan,21.9,DAP,Both,4,171,Leaf Spot,Use crop rotation,13.14
+Cauliflower,Sandy loam,6.0 - 7.6,Apr,16.2,DAP,Basal,3,145,Blight,No treatment needed,22.82
+Chili,Clay,5.9 - 8.4,Jul,24.1,NPK,Top Dressing,8,82,Stem Borer,Apply neem extract,15.19
+Maize,Clay,7.0 - 8.3,Sep,16.5,Compost,Top Dressing,6,101,Leaf Spot,Remove infected parts,25.48
+Coffee,Clay,6.2 - 8.3,Nov,28.3,Vermicompost,Both,4,180,Downy Mildew,Use crop rotation,8.38
+Carrot,Loamy,5.9 - 7.8,Dec,29.3,NPK,Basal,6,162,Downy Mildew,Spray insecticide,12.14
+Turmeric,Alluvial,6.7 - 8.0,Dec,17.1,DAP,Both,7,68,Blight,Use crop rotation,15.23
+Sesame,Loamy,7.0 - 7.9,Sep,16.1,Vermicompost,Basal,6,73,Rust,Apply neem extract,29.29
+Green Gram,Sandy loam,5.8 - 8.4,Oct,19.1,DAP,Basal,7,126,Leaf Spot,Use crop rotation,28.24
+Onion,Sandy loam,5.8 - 8.3,Oct,11.5,DAP,Top Dressing,5,94,Downy Mildew,Use crop rotation,5.01
+Wheat,Black soil,6.6 - 8.1,May,7.0,DAP,Top Dressing,3,95,Downy Mildew,No treatment needed,24.29
+Chickpea,Black soil,7.1 - 8.2,Sep,9.3,Compost,Basal,2,96,Blight,Apply neem extract,7.07
+Pumpkin,Sandy loam,6.2 - 8.1,Oct,7.6,Vermicompost,Basal,8,178,Blight,No treatment needed,22.18
+Green Gram,Clay,6.3 - 8.0,Jan,17.1,DAP,Both,7,154,Rust,Use crop rotation,25.81
+Spinach,Alluvial,5.5 - 7.7,Dec,25.2,Compost,Both,4,60,Powdery Mildew,Spray insecticide,16.28
+Brinjal,Black soil,6.5 - 7.8,Aug,20.6,Vermicompost,Both,8,90,Downy Mildew,No treatment needed,27.94
+Pigeon Pea,Sandy loam,5.9 - 8.5,Feb,28.9,NPK,Both,6,136,Downy Mildew,Apply neem extract,30.0
+Carrot,Alluvial,7.2 - 7.8,Dec,13.8,NPK,Basal,7,85,Root Rot,No treatment needed,31.19
+Potato,Loamy,6.7 - 7.8,Sep,10.6,Vermicompost,Top Dressing,5,78,No major disease,Use crop rotation,7.45
+Cabbage,Sandy loam,5.7 - 7.7,Jul,26.5,DAP,Top Dressing,2,65,Powdery Mildew,Spray insecticide,29.75
+Maize,Sandy loam,6.2 - 8.0,Jan,26.6,Urea,Both,4,89,Anthracnose,Use fungicide,14.12
+Brinjal,Clay,6.4 - 8.1,Dec,5.2,NPK,Basal,8,128,Downy Mildew,Remove infected parts,30.74
+Black Gram,Loamy,6.8 - 8.4,Mar,22.7,Urea,Basal,7,154,Blight,Apply neem extract,10.61
+Apple,Sandy loam,5.9 - 7.9,Oct,6.0,DAP,Basal,5,83,Leaf Spot,Use crop rotation,21.52
+Green Gram,Loamy,7.5 - 7.8,Nov,25.7,Urea,Basal,6,61,Stem Borer,Spray insecticide,18.83
+Brinjal,Alluvial,7.1 - 8.0,Mar,6.1,Urea,Basal,8,97,Root Rot,Apply neem extract,18.56
+Sweet Corn,Black soil,5.6 - 8.5,Jul,18.5,Compost,Basal,4,66,Anthracnose,Use fungicide,31.72
+Mustard,Alluvial,6.3 - 7.8,Dec,25.1,Urea,Top Dressing,8,118,Downy Mildew,Use fungicide,8.58
+Coffee,Sandy loam,6.9 - 7.8,Aug,6.6,NPK,Top Dressing,6,151,Blight,Spray insecticide,16.78
+Ginger,Clay,6.0 - 8.5,Apr,19.9,Compost,Basal,7,145,Blight,Remove infected parts,19.73
+Okra,Black soil,6.5 - 8.2,May,13.8,NPK,Both,3,157,No major disease,Apply neem extract,10.59
+Okra,Sandy loam,6.1 - 8.3,Feb,4.9,Compost,Both,2,64,Wilt,Spray insecticide,32.34
+Ginger,Alluvial,6.5 - 7.9,Aug,25.4,Urea,Top Dressing,7,87,Anthracnose,Remove infected parts,22.17
+Sorghum,Clay,5.7 - 8.1,Jan,10.6,NPK,Basal,5,152,No major disease,Spray insecticide,15.55
+Wheat,Loamy,6.0 - 7.9,Apr,17.1,NPK,Top Dressing,7,156,No major disease,Spray insecticide,24.81
+Sesame,Black soil,7.3 - 7.9,Mar,5.9,Vermicompost,Basal,5,119,Root Rot,Use fungicide,16.95
+Maize,Loamy,5.6 - 7.8,Apr,24.2,NPK,Both,4,129,Anthracnose,Spray insecticide,18.83
+Rice,Sandy loam,6.3 - 8.0,Jan,15.9,DAP,Top Dressing,2,179,Anthracnose,Apply neem extract,10.82
+Bottle Gourd,Black soil,7.2 - 8.1,Sep,24.8,Vermicompost,Basal,4,155,Leaf Spot,Use fungicide,7.63
+Lemon,Alluvial,5.7 - 8.0,Feb,12.5,NPK,Basal,4,160,Downy Mildew,Remove infected parts,34.37
+Rice,Loamy,6.1 - 7.9,Mar,17.7,Urea,Top Dressing,2,109,Wilt,No treatment needed,13.32
+Finger Millet,Loamy,5.8 - 8.2,Jan,9.1,Urea,Both,4,61,Downy Mildew,Spray insecticide,28.11
+Lemon,Clay,6.6 - 7.8,Jul,19.4,Urea,Both,6,109,Blight,Use fungicide,14.33
+Brinjal,Sandy loam,6.7 - 7.9,Apr,18.6,DAP,Basal,4,97,Leaf Spot,No treatment needed,19.6
+Mango,Alluvial,6.5 - 8.0,Nov,5.0,NPK,Both,7,129,Rust,No treatment needed,32.12
+Banana,Sandy loam,6.4 - 7.6,Sep,6.9,Urea,Both,4,126,Root Rot,Apply neem extract,32.27
+Pigeon Pea,Clay,7.2 - 7.9,May,8.8,Compost,Both,3,115,Blight,Use crop rotation,26.34
+Coffee,Clay,6.0 - 7.7,Dec,5.3,NPK,Top Dressing,3,146,Stem Borer,No treatment needed,25.54
+Papaya,Sandy loam,7.1 - 7.8,Jan,8.5,DAP,Top Dressing,7,73,Blight,No treatment needed,25.1
+Mustard,Sandy loam,6.2 - 7.9,Jun,10.8,Urea,Top Dressing,5,166,Downy Mildew,Spray insecticide,20.08
+Banana,Alluvial,6.3 - 8.4,Nov,7.8,Urea,Top Dressing,2,167,No major disease,Remove infected parts,13.37
+Turmeric,Clay,6.8 - 8.0,May,3.3,DAP,Basal,4,83,No major disease,Use fungicide,19.45
+Papaya,Alluvial,6.3 - 8.5,May,25.6,NPK,Both,5,126,Downy Mildew,Remove infected parts,23.74
+Sorghum,Alluvial,6.1 - 7.6,May,3.2,Urea,Basal,7,174,Downy Mildew,No treatment needed,9.3
+Cotton,Sandy loam,6.1 - 8.1,Jul,24.7,DAP,Top Dressing,3,78,Leaf Spot,No treatment needed,22.48
+Sugarcane,Sandy loam,7.1 - 7.9,Nov,19.4,Compost,Top Dressing,6,129,No major disease,Spray insecticide,27.77
+Radish,Black soil,6.8 - 8.0,Dec,16.2,Urea,Basal,2,113,Anthracnose,Spray insecticide,31.89
+Onion,Alluvial,5.7 - 8.3,Feb,12.4,DAP,Both,2,123,Wilt,Remove infected parts,9.47
+Chili,Sandy loam,5.8 - 8.2,Jan,28.5,Vermicompost,Basal,4,136,No major disease,Use fungicide,31.42
+Finger Millet,Sandy loam,7.5 - 7.6,Nov,24.5,Compost,Both,2,171,Root Rot,No treatment needed,14.09
+Groundnut,Clay,5.8 - 7.7,Apr,20.4,DAP,Both,6,148,Wilt,Spray insecticide,20.26
+Peas,Alluvial,6.2 - 8.2,Mar,24.6,NPK,Basal,8,176,No major disease,Apply neem extract,20.11
+Pineapple,Sandy loam,5.9 - 7.8,Feb,4.4,Vermicompost,Top Dressing,8,66,No major disease,Use crop rotation,13.8
+Orange,Clay,7.1 - 8.3,Sep,4.1,NPK,Basal,2,64,Downy Mildew,Use fungicide,17.24
+Beetroot,Black soil,6.9 - 8.4,Feb,16.5,NPK,Top Dressing,2,101,No major disease,Use fungicide,22.16
+Pineapple,Alluvial,7.3 - 7.8,Dec,21.2,DAP,Basal,6,151,Blight,Spray insecticide,13.92
+Onion,Black soil,6.6 - 8.0,Sep,27.1,Vermicompost,Basal,4,165,Downy Mildew,Use crop rotation,16.58
+Carrot,Alluvial,7.3 - 8.4,Jul,13.4,Vermicompost,Basal,4,88,Powdery Mildew,No treatment needed,18.52
+Okra,Clay,5.9 - 8.0,Feb,27.5,Compost,Top Dressing,5,72,Leaf Spot,Use crop rotation,6.83
+Sesame,Clay,7.4 - 8.0,Feb,5.3,Compost,Basal,6,178,Rust,Apply neem extract,23.83
+Banana,Black soil,7.5 - 7.9,Oct,3.1,NPK,Both,7,78,Wilt,Use fungicide,13.79
+Carrot,Loamy,7.1 - 8.0,Jul,12.3,Vermicompost,Top Dressing,2,180,Rust,No treatment needed,33.46
+Grapes,Alluvial,5.9 - 8.0,Jul,25.0,NPK,Top Dressing,6,111,Anthracnose,No treatment needed,19.02
+Lemon,Black soil,5.7 - 8.2,Mar,16.4,NPK,Basal,6,133,Blight,Use fungicide,9.16
+Soybean,Sandy loam,7.4 - 7.7,Jul,13.5,NPK,Top Dressing,2,93,Downy Mildew,No treatment needed,8.93
+Tomato,Clay,7.0 - 7.7,May,24.9,Compost,Basal,8,67,Root Rot,Spray insecticide,30.1
+Pineapple,Alluvial,7.4 - 7.7,Oct,17.7,Urea,Top Dressing,6,139,No major disease,Apply neem extract,13.71
+Radish,Sandy loam,5.8 - 8.4,Jun,6.7,Urea,Top Dressing,7,109,Powdery Mildew,Use crop rotation,13.3
+Barley,Black soil,6.2 - 8.1,Oct,18.3,DAP,Top Dressing,8,169,Root Rot,Use crop rotation,32.46
+Cabbage,Clay,6.0 - 8.4,Sep,13.6,NPK,Top Dressing,4,134,No major disease,Use crop rotation,28.64
+Mango,Alluvial,5.7 - 8.0,Jan,18.9,NPK,Top Dressing,4,68,Leaf Spot,Use crop rotation,14.12
+Coffee,Black soil,7.4 - 7.8,Aug,11.5,Urea,Top Dressing,4,114,Blight,Use fungicide,14.1
+Tea,Sandy loam,7.4 - 8.3,Jun,20.8,DAP,Basal,3,112,Blight,Use fungicide,8.2
+Chili,Black soil,5.5 - 8.4,Jun,17.4,Urea,Top Dressing,8,105,Powdery Mildew,Spray insecticide,17.08
+Tomato,Sandy loam,5.6 - 8.1,Aug,24.5,DAP,Top Dressing,5,108,Stem Borer,No treatment needed,34.19
+Beetroot,Loamy,6.2 - 8.2,Aug,19.8,DAP,Both,4,135,Stem Borer,Spray insecticide,26.92
+Apple,Sandy loam,6.5 - 7.9,Nov,13.4,DAP,Both,7,154,Leaf Spot,Spray insecticide,10.8
+Pearl Millet,Clay,6.7 - 7.9,Jan,12.4,DAP,Both,6,88,No major disease,No treatment needed,29.93
+Cotton,Sandy loam,5.9 - 8.2,Mar,11.3,Vermicompost,Top Dressing,2,86,Anthracnose,Spray insecticide,15.16
+Groundnut,Clay,7.0 - 8.3,Jul,26.6,Compost,Both,3,122,Rust,No treatment needed,33.49
+Brinjal,Alluvial,5.5 - 7.6,Feb,9.1,DAP,Basal,7,76,Anthracnose,Spray insecticide,34.37
+Ginger,Alluvial,5.7 - 7.9,Aug,5.9,DAP,Basal,5,176,Leaf Spot,Apply neem extract,26.3
+Pumpkin,Clay,5.9 - 8.0,Dec,10.2,Urea,Both,3,169,Wilt,Remove infected parts,19.55
+Tea,Clay,7.3 - 8.5,Oct,4.2,NPK,Both,8,75,Leaf Spot,Use crop rotation,22.37
+Sweet Corn,Black soil,6.2 - 8.4,May,4.3,Vermicompost,Basal,5,101,Powdery Mildew,Spray insecticide,18.37
+Green Gram,Clay,7.3 - 8.0,Apr,14.0,Compost,Basal,3,167,Powdery Mildew,Use fungicide,26.94
+Sesame,Alluvial,7.3 - 8.2,Jul,8.5,NPK,Basal,2,62,Wilt,Use fungicide,7.3
+Rice,Sandy loam,6.9 - 8.5,Feb,6.1,Urea,Both,5,137,Anthracnose,Spray insecticide,28.06
+Cotton,Black soil,6.2 - 7.8,Sep,26.4,Compost,Basal,3,103,No major disease,No treatment needed,29.61
+Green Gram,Loamy,6.2 - 8.0,Jul,9.1,DAP,Basal,3,124,Anthracnose,Use crop rotation,7.15
+Finger Millet,Black soil,6.3 - 8.3,Mar,4.9,NPK,Both,7,129,Rust,Use fungicide,31.16
+Brinjal,Clay,7.3 - 7.7,Nov,27.8,NPK,Top Dressing,3,88,Powdery Mildew,Apply neem extract,13.93
+Black Gram,Loamy,6.0 - 8.5,Mar,15.5,Urea,Both,8,99,Powdery Mildew,Apply neem extract,13.41
+Cabbage,Clay,6.8 - 7.7,Jun,27.9,Vermicompost,Top Dressing,7,165,Blight,Apply neem extract,15.8
+Sorghum,Sandy loam,5.8 - 8.4,Dec,15.9,DAP,Basal,6,71,Stem Borer,Remove infected parts,9.29
+Guava,Sandy loam,5.6 - 7.8,Nov,29.5,Urea,Top Dressing,6,180,Root Rot,Remove infected parts,10.34
+Turmeric,Loamy,7.0 - 7.9,Feb,21.4,NPK,Top Dressing,5,92,Blight,Use fungicide,18.3
+Cotton,Clay,7.1 - 7.9,Jul,9.9,DAP,Both,6,107,Wilt,Spray insecticide,18.24
+Radish,Sandy loam,7.4 - 8.2,Feb,27.0,NPK,Top Dressing,5,71,Stem Borer,Use fungicide,30.99
+Sweet Corn,Loamy,7.4 - 8.4,Jan,9.9,Vermicompost,Both,8,125,Rust,Apply neem extract,21.78
+Brinjal,Black soil,6.1 - 8.4,Jul,3.8,DAP,Both,2,125,Stem Borer,Use crop rotation,29.85
+Coriander,Sandy loam,6.8 - 8.0,Jan,6.1,Urea,Top Dressing,6,147,Wilt,Use fungicide,14.13
+Potato,Loamy,6.8 - 8.4,Jan,21.5,DAP,Top Dressing,5,151,Anthracnose,Apply neem extract,34.8
+Brinjal,Loamy,6.2 - 7.9,May,15.8,Urea,Basal,6,91,Anthracnose,Use fungicide,29.24
+Lemon,Clay,6.7 - 7.8,Feb,24.9,NPK,Top Dressing,3,163,Rust,Spray insecticide,25.22
+Coriander,Alluvial,5.8 - 7.7,Jul,3.3,Urea,Top Dressing,5,114,Powdery Mildew,Use fungicide,5.08
+Okra,Clay,7.5 - 7.9,Nov,14.8,Vermicompost,Both,5,103,Leaf Spot,Remove infected parts,5.75
+Cabbage,Black soil,5.8 - 8.1,Jul,24.8,DAP,Both,4,146,Downy Mildew,Spray insecticide,7.32
+Cotton,Alluvial,6.3 - 8.1,May,14.7,NPK,Both,2,173,Rust,Apply neem extract,11.3
+Bottle Gourd,Alluvial,7.4 - 7.7,Nov,22.7,NPK,Basal,7,168,Wilt,Remove infected parts,30.12
+Rice,Loamy,7.4 - 8.0,Feb,22.6,Urea,Top Dressing,5,87,Stem Borer,Remove infected parts,33.08
+Tea,Loamy,5.9 - 7.9,Jul,20.7,DAP,Basal,5,152,No major disease,Remove infected parts,20.43
+Wheat,Clay,7.1 - 7.7,Dec,28.4,Compost,Both,4,81,Wilt,Apply neem extract,9.67
+Sorghum,Loamy,6.5 - 7.7,Feb,5.3,Compost,Both,2,159,Wilt,Use crop rotation,13.38
+Brinjal,Loamy,7.5 - 8.1,Jan,27.2,Urea,Both,4,105,Blight,Use fungicide,23.49
+Sorghum,Alluvial,5.9 - 8.2,Nov,10.3,NPK,Basal,6,171,Leaf Spot,No treatment needed,21.98
+Brinjal,Loamy,6.5 - 7.7,Aug,10.0,NPK,Both,8,108,Anthracnose,Remove infected parts,34.59
+Maize,Sandy loam,7.2 - 8.2,Aug,27.0,Vermicompost,Both,3,153,Wilt,Apply neem extract,16.39
+Cabbage,Loamy,7.4 - 8.1,Jul,13.4,DAP,Both,5,95,Leaf Spot,Apply neem extract,28.84
+Wheat,Clay,6.5 - 8.4,Sep,25.2,Compost,Top Dressing,6,70,Rust,No treatment needed,7.53
+Green Gram,Alluvial,6.3 - 7.8,Jun,5.5,Compost,Basal,6,66,No major disease,Remove infected parts,5.63
+Pigeon Pea,Loamy,5.5 - 8.4,Oct,27.4,DAP,Basal,2,140,Downy Mildew,Apply neem extract,26.42
+Sugarcane,Sandy loam,6.4 - 7.9,Dec,15.8,Compost,Basal,5,121,Stem Borer,Apply neem extract,27.98
+Coriander,Sandy loam,5.8 - 8.0,Apr,20.9,NPK,Both,8,154,Downy Mildew,Apply neem extract,12.42
+Pearl Millet,Black soil,6.0 - 7.9,Jul,27.1,Vermicompost,Both,4,79,Anthracnose,Spray insecticide,33.9
+Beetroot,Clay,6.9 - 8.1,Aug,20.1,Urea,Basal,4,167,Stem Borer,No treatment needed,21.86
+Pearl Millet,Clay,5.6 - 7.9,Mar,13.9,Urea,Basal,7,114,Powdery Mildew,Use fungicide,11.07
+Cotton,Clay,7.5 - 8.3,Apr,20.4,Vermicompost,Basal,4,99,Wilt,Apply neem extract,13.7
+Coriander,Clay,6.8 - 7.9,May,5.0,NPK,Top Dressing,6,80,Wilt,No treatment needed,23.8
+Spinach,Black soil,7.1 - 8.0,Oct,6.8,Vermicompost,Top Dressing,8,94,Anthracnose,Apply neem extract,14.79
+Brinjal,Alluvial,6.3 - 8.4,Apr,10.3,Vermicompost,Top Dressing,8,160,Downy Mildew,Remove infected parts,19.71
+Maize,Alluvial,5.9 - 8.5,Apr,9.0,NPK,Basal,4,161,Rust,Use crop rotation,27.61
+Sesame,Sandy loam,7.0 - 8.5,Nov,11.6,DAP,Basal,5,89,Rust,Spray insecticide,30.41
+Tea,Alluvial,6.7 - 7.7,Aug,8.4,Urea,Both,2,153,Wilt,Use crop rotation,11.53
+Cauliflower,Loamy,6.2 - 8.0,Aug,12.3,DAP,Both,7,140,Wilt,Apply neem extract,21.25
+Tomato,Black soil,6.0 - 8.1,Jun,14.2,Urea,Both,3,114,No major disease,Spray insecticide,34.96
+Cotton,Alluvial,6.5 - 7.8,Aug,11.6,Urea,Basal,7,145,Root Rot,Remove infected parts,13.12
+Okra,Sandy loam,7.2 - 7.6,May,28.0,NPK,Top Dressing,6,148,Stem Borer,Use fungicide,8.12
+Groundnut,Clay,6.2 - 7.7,Oct,15.7,DAP,Basal,3,95,Rust,Use fungicide,5.36
+Tomato,Sandy loam,7.4 - 8.3,Aug,15.0,DAP,Top Dressing,4,80,No major disease,Spray insecticide,27.38
+Ginger,Black soil,7.5 - 8.2,Dec,23.9,Compost,Basal,7,103,Wilt,Apply neem extract,14.21
+Cabbage,Clay,7.5 - 8.4,Mar,3.9,Vermicompost,Top Dressing,4,84,Blight,Remove infected parts,28.19
+Tomato,Clay,7.4 - 8.2,Oct,22.2,Urea,Top Dressing,4,106,Anthracnose,Spray insecticide,32.42
+Orange,Black soil,7.0 - 7.6,Apr,4.0,Urea,Top Dressing,3,170,Wilt,Remove infected parts,14.16
+Coffee,Black soil,7.1 - 8.5,Feb,13.5,Urea,Top Dressing,6,93,Anthracnose,Use crop rotation,13.28
+Rice,Sandy loam,5.9 - 8.1,Jan,13.9,DAP,Basal,7,70,Anthracnose,No treatment needed,12.65
+Cauliflower,Loamy,6.5 - 8.2,Dec,12.9,Compost,Basal,3,176,Root Rot,Apply neem extract,30.15
+Pearl Millet,Loamy,6.0 - 8.1,Jan,4.0,Vermicompost,Basal,8,177,Downy Mildew,Spray insecticide,13.88
+Mango,Alluvial,5.9 - 7.9,Feb,27.8,Compost,Both,5,77,No major disease,No treatment needed,27.69
+Wheat,Sandy loam,6.3 - 8.2,Jul,16.7,Vermicompost,Basal,4,137,Powdery Mildew,Use crop rotation,13.43
+Ginger,Clay,6.0 - 7.9,Apr,7.8,Vermicompost,Both,7,100,Leaf Spot,Apply neem extract,34.09
+Wheat,Alluvial,6.1 - 7.6,Jun,12.8,Vermicompost,Basal,5,123,Anthracnose,No treatment needed,10.29
+Chickpea,Loamy,6.1 - 7.6,Dec,29.2,Vermicompost,Basal,7,116,Powdery Mildew,Use fungicide,17.26
+Okra,Alluvial,5.6 - 7.7,Dec,12.4,NPK,Basal,3,103,Blight,Remove infected parts,21.02
+Groundnut,Clay,6.3 - 8.2,Apr,8.2,Compost,Both,5,126,Leaf Spot,Use fungicide,23.61
+Pumpkin,Black soil,6.7 - 8.2,Sep,26.9,Compost,Both,8,101,Blight,Remove infected parts,21.88
+Grapes,Loamy,6.2 - 7.7,Apr,4.1,Compost,Basal,3,107,Leaf Spot,Spray insecticide,17.64
+Radish,Black soil,5.6 - 8.2,Nov,8.0,NPK,Both,7,86,Blight,Use fungicide,20.47
+Soybean,Alluvial,6.3 - 8.5,Apr,5.2,Compost,Basal,2,81,Wilt,Use crop rotation,7.32
+Pumpkin,Black soil,6.5 - 7.9,Mar,26.8,Vermicompost,Basal,5,147,Rust,Remove infected parts,11.46
+Radish,Loamy,6.9 - 8.5,Feb,19.1,Vermicompost,Both,7,160,Wilt,Remove infected parts,26.23
+Apple,Loamy,7.2 - 8.5,Feb,9.8,DAP,Basal,4,173,Leaf Spot,Use fungicide,31.74
+Brinjal,Alluvial,6.9 - 7.8,May,22.0,Vermicompost,Both,5,160,Rust,No treatment needed,24.95
+Green Gram,Black soil,7.1 - 8.4,Sep,12.5,Urea,Both,2,151,Stem Borer,Use fungicide,31.52
+Garlic,Black soil,7.1 - 7.8,May,6.7,DAP,Basal,4,129,Leaf Spot,Use fungicide,18.03
+Cabbage,Loamy,7.4 - 8.2,Jun,29.4,Compost,Top Dressing,5,129,Anthracnose,No treatment needed,5.44
+Chili,Loamy,6.3 - 8.3,Jun,18.2,DAP,Top Dressing,4,73,Anthracnose,Apply neem extract,26.07
+Maize,Clay,5.9 - 8.4,May,14.1,NPK,Both,8,73,Downy Mildew,Use fungicide,14.88
+Beetroot,Alluvial,7.2 - 8.0,Mar,24.6,Vermicompost,Top Dressing,4,118,Stem Borer,Apply neem extract,16.47
+Sesame,Clay,7.3 - 8.1,Aug,27.9,Vermicompost,Top Dressing,3,178,Blight,Use crop rotation,8.21
+Beetroot,Alluvial,6.7 - 7.8,Feb,5.8,Compost,Basal,6,115,Stem Borer,No treatment needed,33.37
+Rice,Clay,7.4 - 7.7,Oct,25.2,NPK,Both,4,176,Wilt,Apply neem extract,6.0
+Guava,Black soil,5.8 - 7.8,May,28.4,NPK,Basal,3,143,Powdery Mildew,Use crop rotation,17.16
+Tomato,Sandy loam,7.3 - 7.8,Nov,7.6,NPK,Top Dressing,7,123,Rust,Use fungicide,30.15
+Sunflower,Alluvial,6.8 - 7.6,Apr,29.2,NPK,Basal,3,160,Stem Borer,Use crop rotation,7.33
+Cauliflower,Sandy loam,7.3 - 8.4,Aug,16.7,Vermicompost,Basal,8,158,Root Rot,No treatment needed,20.55
+Spinach,Black soil,7.3 - 8.2,Jan,11.7,Urea,Both,8,120,Stem Borer,Remove infected parts,31.52
+Chickpea,Clay,7.3 - 8.2,Jul,24.1,DAP,Both,4,117,Leaf Spot,Use fungicide,7.51
+Rice,Alluvial,7.3 - 7.9,Feb,14.7,Vermicompost,Top Dressing,4,80,Stem Borer,Use crop rotation,28.51
+Black Gram,Clay,6.1 - 8.1,Aug,6.0,NPK,Top Dressing,8,157,Blight,Remove infected parts,28.56
+Coriander,Black soil,6.0 - 8.3,Oct,30.0,Vermicompost,Top Dressing,6,114,No major disease,Use fungicide,21.8
+Guava,Clay,5.9 - 8.4,Mar,12.1,Compost,Both,4,175,No major disease,Use crop rotation,13.97
+Mustard,Loamy,6.7 - 7.6,Apr,23.1,DAP,Basal,6,64,Blight,Apply neem extract,15.66
+Pumpkin,Sandy loam,7.4 - 7.7,Apr,27.4,Compost,Both,5,164,Downy Mildew,Spray insecticide,21.27
+Chili,Clay,7.1 - 8.2,Dec,14.3,Urea,Basal,6,140,Leaf Spot,Use fungicide,34.28
+Radish,Loamy,7.0 - 8.0,Nov,21.6,NPK,Basal,8,122,Stem Borer,Apply neem extract,12.22
+Finger Millet,Loamy,7.5 - 7.7,Jul,18.7,Urea,Basal,5,60,Anthracnose,Use crop rotation,20.51
+Pearl Millet,Clay,6.1 - 8.2,Sep,27.0,Urea,Basal,5,154,No major disease,Apply neem extract,26.44
+Bottle Gourd,Alluvial,6.9 - 7.9,Jul,18.4,Compost,Top Dressing,7,107,Powdery Mildew,Apply neem extract,10.39
+Coriander,Sandy loam,7.2 - 7.7,Apr,20.7,DAP,Both,6,113,Powdery Mildew,Use fungicide,24.64
+Ginger,Black soil,6.9 - 7.7,Jun,5.2,Compost,Basal,2,144,Anthracnose,Spray insecticide,23.72
+Banana,Black soil,6.9 - 8.5,Sep,17.9,NPK,Both,4,142,Root Rot,Use crop rotation,19.74
+Okra,Black soil,5.6 - 7.7,Jan,5.1,Urea,Both,7,84,No major disease,Spray insecticide,17.4
+Orange,Black soil,7.0 - 7.7,Mar,11.2,Urea,Top Dressing,7,99,Wilt,Spray insecticide,22.8
+Groundnut,Alluvial,6.0 - 8.4,Dec,15.1,NPK,Both,5,110,Powdery Mildew,Use crop rotation,11.63
+Sorghum,Loamy,6.6 - 8.1,Sep,25.8,Urea,Basal,5,178,Root Rot,Apply neem extract,20.95
+Radish,Sandy loam,6.4 - 8.3,Jun,26.5,NPK,Both,7,149,Anthracnose,Use fungicide,18.51
+Coriander,Alluvial,6.2 - 7.6,Jan,21.7,NPK,Basal,4,159,Stem Borer,Use crop rotation,6.28
+Peas,Sandy loam,7.1 - 8.2,Jan,27.1,NPK,Top Dressing,7,177,Wilt,Apply neem extract,20.56
+Lemon,Alluvial,7.3 - 7.8,Nov,17.3,Urea,Both,8,179,Powdery Mildew,No treatment needed,6.74
+Beetroot,Clay,7.0 - 7.8,Mar,29.6,Compost,Basal,2,97,Blight,Use fungicide,22.24
+Peas,Alluvial,5.6 - 8.0,Jul,29.6,Compost,Basal,6,138,Wilt,Apply neem extract,16.29
+Black Gram,Loamy,6.4 - 8.0,Jun,10.6,Urea,Basal,5,167,No major disease,Remove infected parts,15.93
+Cauliflower,Black soil,7.2 - 8.2,Jun,13.5,Compost,Basal,4,92,No major disease,No treatment needed,14.67
+Pigeon Pea,Loamy,6.3 - 8.4,Nov,16.2,Vermicompost,Top Dressing,2,167,Stem Borer,Spray insecticide,24.52
+Apple,Alluvial,7.1 - 8.2,Nov,14.0,DAP,Top Dressing,4,94,Wilt,Use crop rotation,30.88
+Wheat,Black soil,6.9 - 8.0,Nov,3.0,Urea,Top Dressing,2,154,Leaf Spot,Remove infected parts,29.98
+Tomato,Clay,6.3 - 8.4,Jun,11.4,NPK,Both,4,105,Anthracnose,Spray insecticide,25.68
+Guava,Alluvial,5.9 - 8.3,Mar,18.0,Urea,Top Dressing,5,127,Anthracnose,Spray insecticide,9.94
+Cabbage,Sandy loam,6.2 - 7.7,Dec,22.1,Vermicompost,Basal,4,122,No major disease,Remove infected parts,5.7
+Sweet Corn,Clay,5.9 - 8.0,Jul,23.9,DAP,Both,3,92,Blight,Use crop rotation,17.07
+Spinach,Sandy loam,6.1 - 7.8,Mar,16.3,DAP,Basal,3,114,Blight,Remove infected parts,10.28
+Spinach,Clay,7.4 - 7.7,Oct,25.8,DAP,Top Dressing,5,63,Leaf Spot,Apply neem extract,29.72
+Sesame,Loamy,6.5 - 7.9,Sep,26.1,NPK,Top Dressing,7,76,Anthracnose,Apply neem extract,31.29
+Wheat,Black soil,6.5 - 8.4,Apr,4.9,DAP,Basal,6,64,Stem Borer,Remove infected parts,10.05
+Pumpkin,Alluvial,5.6 - 8.0,Jul,12.4,NPK,Both,3,174,Blight,Spray insecticide,28.14
+Cauliflower,Sandy loam,7.4 - 7.9,Sep,7.6,NPK,Basal,3,101,Root Rot,Use fungicide,24.08
+Coriander,Loamy,6.8 - 8.2,Feb,28.2,Compost,Both,4,108,Leaf Spot,Use crop rotation,9.27
+Ginger,Black soil,6.1 - 8.2,Mar,8.0,Compost,Top Dressing,5,134,Powdery Mildew,Apply neem extract,6.62
+Potato,Alluvial,6.8 - 7.8,Oct,11.6,NPK,Both,7,96,Downy Mildew,Remove infected parts,7.3
+Chili,Black soil,6.1 - 8.4,Mar,18.6,Compost,Top Dressing,8,169,Downy Mildew,Use fungicide,13.65
+Turmeric,Black soil,7.2 - 7.9,Oct,12.7,Urea,Both,2,152,Wilt,No treatment needed,13.55
+Banana,Sandy loam,6.9 - 8.2,Feb,26.8,Urea,Both,8,99,Leaf Spot,Use crop rotation,24.19
+Groundnut,Sandy loam,6.1 - 7.7,Oct,23.0,NPK,Both,5,126,Powdery Mildew,Use fungicide,19.99
+Chickpea,Black soil,5.6 - 8.1,Aug,3.8,Urea,Basal,3,146,Leaf Spot,Use crop rotation,19.67
+Coriander,Loamy,5.5 - 8.4,Apr,3.4,Urea,Top Dressing,6,130,Leaf Spot,Use fungicide,30.48
+Barley,Clay,6.7 - 8.0,Feb,12.6,NPK,Basal,2,129,Wilt,Remove infected parts,13.95
+Spinach,Sandy loam,5.9 - 8.1,Aug,26.1,Compost,Top Dressing,5,116,Downy Mildew,Use crop rotation,17.33
+Peas,Alluvial,7.0 - 7.7,Feb,17.9,Vermicompost,Basal,6,103,Downy Mildew,Apply neem extract,29.85
+Beetroot,Sandy loam,5.6 - 8.3,Apr,9.4,Compost,Basal,3,126,Blight,Use crop rotation,29.52
+Maize,Alluvial,5.6 - 7.9,May,29.6,Vermicompost,Both,8,178,Rust,No treatment needed,5.88
+Sunflower,Sandy loam,6.2 - 8.4,Jun,8.4,Vermicompost,Top Dressing,6,114,Wilt,Apply neem extract,7.05
+Green Gram,Black soil,6.1 - 7.6,May,12.0,NPK,Basal,2,69,Downy Mildew,Use fungicide,17.09
+Guava,Alluvial,5.9 - 8.3,Apr,21.5,Compost,Top Dressing,8,98,Anthracnose,Apply neem extract,9.28
+Ginger,Sandy loam,6.6 - 8.2,Jul,4.0,Vermicompost,Basal,6,116,Rust,Spray insecticide,21.89
+Rice,Alluvial,6.1 - 8.3,Sep,9.3,Vermicompost,Top Dressing,6,147,Leaf Spot,Spray insecticide,28.13
+Grapes,Alluvial,6.9 - 7.6,Mar,14.0,NPK,Basal,3,69,Stem Borer,Remove infected parts,6.15
+Sweet Corn,Sandy loam,6.4 - 7.7,Aug,27.0,Compost,Both,6,105,Stem Borer,Use fungicide,34.07
+Barley,Alluvial,6.3 - 7.9,Apr,8.7,Urea,Basal,8,107,Wilt,Remove infected parts,8.39
+Brinjal,Clay,6.1 - 7.7,Jul,24.2,Urea,Top Dressing,8,81,Rust,Spray insecticide,12.44
+Black Gram,Loamy,5.7 - 8.1,May,28.8,NPK,Basal,5,160,Leaf Spot,Remove infected parts,24.66
+Maize,Sandy loam,6.6 - 7.7,Oct,7.2,Urea,Both,5,73,Powdery Mildew,No treatment needed,7.04
+Sesame,Alluvial,6.7 - 7.9,Feb,6.2,Vermicompost,Both,3,151,Rust,Spray insecticide,20.07
+Sugarcane,Black soil,5.6 - 8.3,Jan,18.7,NPK,Basal,5,144,Anthracnose,Spray insecticide,16.9
+Mango,Clay,6.5 - 7.8,Feb,24.3,NPK,Top Dressing,3,100,Powdery Mildew,Spray insecticide,15.64
+Turmeric,Alluvial,6.3 - 8.1,Aug,4.4,DAP,Both,2,174,Wilt,Apply neem extract,25.18
+Okra,Alluvial,5.5 - 8.4,Jul,5.1,DAP,Top Dressing,5,118,Anthracnose,No treatment needed,12.75
+Radish,Loamy,5.7 - 7.7,Mar,15.0,DAP,Basal,3,75,Root Rot,Use fungicide,24.89
+Chickpea,Black soil,6.9 - 7.7,Oct,4.9,Vermicompost,Both,3,168,Anthracnose,Remove infected parts,19.64
+Ginger,Alluvial,6.4 - 8.3,Nov,14.1,Urea,Top Dressing,8,172,Leaf Spot,No treatment needed,6.07
+Wheat,Loamy,7.0 - 7.7,Aug,17.9,Compost,Basal,4,114,Downy Mildew,Remove infected parts,17.01
+Grapes,Clay,6.9 - 8.0,Jun,26.0,NPK,Top Dressing,5,164,Downy Mildew,Use fungicide,10.68
+Onion,Alluvial,5.6 - 8.4,Dec,21.6,DAP,Both,7,127,Leaf Spot,Remove infected parts,19.95
+Radish,Clay,6.4 - 8.5,Mar,13.4,NPK,Basal,5,62,Rust,Use fungicide,11.69
+Tea,Alluvial,6.5 - 8.2,Jul,26.4,Vermicompost,Basal,4,64,Rust,No treatment needed,13.69
+Coriander,Clay,7.1 - 8.1,Jul,26.3,Urea,Top Dressing,2,80,Leaf Spot,Apply neem extract,9.37
+Papaya,Black soil,5.8 - 8.1,Jan,11.8,Compost,Both,5,77,Downy Mildew,No treatment needed,23.51
+Guava,Black soil,7.2 - 8.4,Nov,18.0,Urea,Both,6,148,Stem Borer,Spray insecticide,13.73
+Rice,Alluvial,6.6 - 8.4,Aug,15.7,Compost,Top Dressing,8,174,Rust,Spray insecticide,11.45
+Maize,Alluvial,5.6 - 8.4,Mar,18.3,DAP,Basal,7,112,Leaf Spot,No treatment needed,5.53
+Mango,Black soil,5.7 - 7.9,Sep,28.6,Compost,Both,7,82,Wilt,Use crop rotation,23.17
+Potato,Alluvial,7.2 - 7.6,Apr,15.1,Compost,Top Dressing,2,90,Wilt,No treatment needed,24.34
+Chickpea,Sandy loam,5.6 - 8.4,Mar,16.4,DAP,Top Dressing,2,67,Wilt,No treatment needed,18.75
+Orange,Alluvial,6.0 - 8.0,Apr,21.5,Compost,Both,2,165,Powdery Mildew,Remove infected parts,29.76
+Tomato,Loamy,7.0 - 8.0,Jan,21.8,Compost,Both,3,86,Wilt,Remove infected parts,28.12
+Finger Millet,Alluvial,7.4 - 7.8,May,16.6,Vermicompost,Basal,3,76,Rust,Use crop rotation,23.79
+Papaya,Sandy loam,5.6 - 7.8,Oct,7.9,Compost,Basal,5,140,Root Rot,Remove infected parts,9.73
+Bottle Gourd,Loamy,6.7 - 7.8,Jul,29.8,NPK,Both,8,159,Stem Borer,Apply neem extract,8.58
+Garlic,Clay,5.6 - 8.1,Mar,12.7,Urea,Both,4,120,Rust,Apply neem extract,25.72
+Coriander,Loamy,6.5 - 7.7,Oct,26.1,Urea,Top Dressing,4,98,Stem Borer,Spray insecticide,6.66
+Soybean,Loamy,7.3 - 8.0,Apr,19.5,DAP,Both,5,159,No major disease,Spray insecticide,29.17
+Guava,Clay,5.6 - 8.4,Oct,11.3,Compost,Top Dressing,7,161,Blight,No treatment needed,6.96
+Wheat,Alluvial,6.2 - 8.2,Feb,28.1,Compost,Basal,8,124,Rust,Use fungicide,20.51
+Bottle Gourd,Black soil,7.0 - 8.4,Jun,25.5,Compost,Both,6,129,Blight,No treatment needed,28.87
+Garlic,Black soil,6.1 - 8.3,May,18.5,Compost,Both,2,140,Leaf Spot,No treatment needed,12.93
+Sugarcane,Clay,6.6 - 8.1,Feb,7.3,NPK,Top Dressing,3,69,Powdery Mildew,Remove infected parts,5.95
+Lemon,Alluvial,7.4 - 8.0,Aug,9.9,NPK,Both,2,144,Rust,Remove infected parts,10.04
+Cotton,Sandy loam,7.4 - 8.0,Apr,13.3,DAP,Top Dressing,4,135,Blight,No treatment needed,7.13
+Black Gram,Sandy loam,7.4 - 7.8,Jun,6.5,Compost,Basal,6,171,Powdery Mildew,No treatment needed,28.65
+Soybean,Clay,7.0 - 8.3,Nov,10.8,Compost,Top Dressing,4,139,Stem Borer,Apply neem extract,22.13
+Mango,Alluvial,7.3 - 7.9,Apr,29.3,Compost,Both,5,151,Leaf Spot,Use fungicide,23.06
+Groundnut,Loamy,6.2 - 8.4,Nov,4.7,Urea,Top Dressing,3,93,Anthracnose,Use crop rotation,6.34
+Cotton,Clay,5.6 - 8.1,Apr,3.2,Compost,Basal,6,172,Root Rot,No treatment needed,23.91
+Maize,Loamy,6.2 - 8.5,Jun,19.6,NPK,Top Dressing,3,175,Stem Borer,Spray insecticide,6.36
+Orange,Loamy,6.3 - 7.7,Oct,28.6,Compost,Top Dressing,8,129,Root Rot,No treatment needed,33.16
+Chickpea,Black soil,7.3 - 7.6,Sep,29.9,NPK,Basal,5,100,Stem Borer,Use fungicide,30.47
+Pineapple,Clay,6.1 - 7.9,Nov,8.8,Urea,Top Dressing,5,82,Blight,Spray insecticide,21.62
+Wheat,Sandy loam,6.2 - 7.6,Dec,3.9,Vermicompost,Both,2,103,Anthracnose,Remove infected parts,26.22
+Cotton,Clay,5.9 - 8.3,Jul,18.6,NPK,Both,3,93,Wilt,No treatment needed,27.98
+Sesame,Black soil,7.3 - 8.0,Jan,16.9,DAP,Basal,4,149,Root Rot,No treatment needed,23.16
+Tea,Alluvial,6.3 - 8.5,Nov,10.1,DAP,Both,5,119,Anthracnose,Use crop rotation,27.24
+Groundnut,Clay,7.0 - 8.1,Oct,8.1,Vermicompost,Top Dressing,3,148,Blight,Use fungicide,34.0
+Banana,Clay,6.3 - 7.8,Nov,22.0,Vermicompost,Both,8,114,Anthracnose,No treatment needed,9.89
+Cotton,Sandy loam,6.9 - 8.4,Nov,18.3,NPK,Both,3,174,Leaf Spot,Remove infected parts,7.96
+Green Gram,Black soil,6.7 - 7.7,Dec,20.5,Urea,Both,4,149,Powdery Mildew,Use fungicide,15.89
+Finger Millet,Clay,5.7 - 8.3,Feb,28.2,Urea,Basal,5,104,Downy Mildew,Use crop rotation,16.95
+Grapes,Loamy,6.6 - 7.8,May,27.7,Urea,Both,8,159,Leaf Spot,Remove infected parts,26.52
+Maize,Sandy loam,6.7 - 8.2,Mar,23.7,Vermicompost,Top Dressing,4,132,Rust,Spray insecticide,32.65
+Coffee,Clay,6.6 - 8.2,May,23.4,DAP,Basal,2,107,Rust,Use crop rotation,29.17
+Pumpkin,Loamy,5.7 - 8.4,May,17.2,Urea,Basal,2,127,Root Rot,Apply neem extract,23.1
+Pumpkin,Black soil,6.0 - 8.0,Jul,9.4,NPK,Basal,6,116,Stem Borer,Spray insecticide,15.34
+Onion,Clay,6.2 - 8.2,Jun,13.3,Urea,Both,8,123,Downy Mildew,Spray insecticide,22.5
+Turmeric,Loamy,5.8 - 7.8,Feb,12.8,Urea,Both,7,138,No major disease,Use crop rotation,10.47
+Okra,Loamy,6.7 - 7.6,Jan,21.4,NPK,Basal,6,94,Downy Mildew,Use fungicide,28.96
+Bottle Gourd,Sandy loam,5.6 - 7.8,Sep,21.8,Compost,Top Dressing,4,83,Wilt,Use crop rotation,6.35
+Ginger,Black soil,5.8 - 7.8,Aug,13.8,Urea,Both,3,138,Powdery Mildew,Use fungicide,25.74
+Pearl Millet,Sandy loam,5.5 - 8.4,Oct,27.7,Urea,Basal,5,168,Powdery Mildew,No treatment needed,24.87
+Radish,Loamy,6.5 - 8.3,Jul,22.5,Compost,Both,7,118,Stem Borer,Use fungicide,22.76
+Sesame,Alluvial,6.7 - 8.2,Jun,3.4,DAP,Top Dressing,6,142,Rust,Remove infected parts,15.82
+Finger Millet,Alluvial,6.4 - 7.8,Aug,24.7,DAP,Top Dressing,2,153,Downy Mildew,Apply neem extract,13.86
+Coriander,Clay,6.1 - 8.3,Sep,29.5,Vermicompost,Top Dressing,2,117,Leaf Spot,Apply neem extract,26.37
+Finger Millet,Alluvial,6.3 - 8.2,Feb,15.3,Vermicompost,Both,6,171,Anthracnose,No treatment needed,6.67
+Cauliflower,Sandy loam,6.6 - 8.4,Feb,9.8,DAP,Both,8,172,Downy Mildew,Use fungicide,16.63
+Rice,Loamy,7.1 - 8.1,Apr,11.7,Urea,Top Dressing,2,90,Blight,Spray insecticide,13.52
+Maize,Loamy,5.5 - 8.2,May,12.3,Urea,Both,3,61,Powdery Mildew,No treatment needed,21.96
+Bottle Gourd,Alluvial,6.6 - 8.3,Sep,23.2,Compost,Basal,7,89,Wilt,Apply neem extract,16.14
+Maize,Sandy loam,6.0 - 7.9,Oct,19.4,DAP,Both,3,145,Blight,Remove infected parts,20.39
+Chili,Black soil,6.1 - 7.8,Jun,25.4,Compost,Both,7,96,Powdery Mildew,Use crop rotation,27.11
+Sesame,Loamy,5.6 - 8.2,Mar,27.7,Urea,Top Dressing,5,86,No major disease,Apply neem extract,22.09
+Papaya,Alluvial,7.2 - 8.3,Nov,27.8,Vermicompost,Both,3,162,Stem Borer,Remove infected parts,22.46
+Banana,Loamy,5.9 - 7.8,Dec,23.3,NPK,Basal,5,171,Rust,Use crop rotation,30.89
+Mango,Black soil,6.2 - 7.7,Sep,7.0,NPK,Both,2,178,Stem Borer,Remove infected parts,31.32
+Coriander,Loamy,6.7 - 7.7,Nov,16.8,Vermicompost,Both,7,134,Leaf Spot,Remove infected parts,25.59
+Finger Millet,Sandy loam,6.6 - 8.4,Nov,7.7,DAP,Both,4,107,No major disease,Use crop rotation,11.56
+Peas,Loamy,5.6 - 8.4,Jun,17.2,Urea,Top Dressing,4,158,Root Rot,No treatment needed,19.72
+Sunflower,Black soil,7.5 - 7.7,Feb,17.2,Vermicompost,Top Dressing,5,75,Blight,Apply neem extract,17.47
+Pineapple,Black soil,6.1 - 8.0,May,17.6,DAP,Top Dressing,7,103,Blight,Use crop rotation,7.69
+Brinjal,Clay,5.6 - 8.0,Oct,3.3,Vermicompost,Both,3,166,Anthracnose,Spray insecticide,33.32
+Pumpkin,Clay,7.0 - 8.3,Jan,11.4,Urea,Both,2,135,Rust,Use crop rotation,34.54
+Sweet Corn,Sandy loam,6.0 - 7.6,Nov,28.6,NPK,Basal,4,88,Powdery Mildew,No treatment needed,31.45
+Mango,Alluvial,6.5 - 8.3,Jul,25.0,Urea,Basal,5,79,Leaf Spot,Use crop rotation,6.16
+Garlic,Sandy loam,6.6 - 8.3,Dec,18.2,Urea,Top Dressing,2,138,No major disease,No treatment needed,31.9
+Radish,Loamy,6.2 - 7.9,Dec,23.2,Urea,Basal,2,113,Blight,Use fungicide,16.41
+Green Gram,Black soil,7.1 - 7.7,Sep,20.6,DAP,Basal,8,120,Anthracnose,No treatment needed,32.58
+Finger Millet,Loamy,6.3 - 8.5,Nov,15.8,Compost,Top Dressing,3,83,Root Rot,Spray insecticide,28.35
+Guava,Clay,5.6 - 8.3,Sep,20.7,DAP,Basal,6,105,Rust,Spray insecticide,31.69
+Spinach,Alluvial,6.2 - 8.5,Dec,14.0,DAP,Both,3,101,Wilt,Remove infected parts,26.07
+Maize,Clay,6.6 - 7.9,Mar,24.7,DAP,Both,6,130,Rust,Use crop rotation,26.91
+Sesame,Loamy,6.1 - 8.1,Sep,25.3,Urea,Both,2,108,Root Rot,Apply neem extract,27.38
+Pigeon Pea,Clay,7.1 - 8.2,Nov,23.6,NPK,Top Dressing,5,158,Anthracnose,Remove infected parts,12.48
+Papaya,Alluvial,6.5 - 8.1,Jun,13.5,Compost,Basal,6,76,Stem Borer,Use fungicide,25.05
+Sugarcane,Clay,5.7 - 7.7,Oct,20.0,Vermicompost,Both,5,148,Blight,Apply neem extract,14.75
+Sunflower,Alluvial,5.6 - 8.5,Apr,5.7,NPK,Top Dressing,2,118,Stem Borer,Use crop rotation,21.9
+Sunflower,Loamy,6.7 - 8.3,Feb,16.6,NPK,Top Dressing,7,174,Rust,Spray insecticide,23.87
+Sorghum,Sandy loam,6.8 - 7.7,Feb,15.8,DAP,Basal,6,110,Stem Borer,Remove infected parts,25.18
+Sweet Corn,Clay,7.0 - 8.3,Mar,6.4,NPK,Top Dressing,4,85,Anthracnose,Use fungicide,33.81
+Cabbage,Black soil,5.6 - 8.2,Aug,6.6,Vermicompost,Top Dressing,5,79,Downy Mildew,Apply neem extract,27.55
+Groundnut,Loamy,5.9 - 8.5,Dec,27.3,NPK,Both,7,145,Rust,Remove infected parts,34.54
+Green Gram,Alluvial,6.3 - 8.0,Dec,20.0,NPK,Both,4,178,Wilt,Use fungicide,30.43
+Mustard,Sandy loam,6.5 - 8.0,Nov,8.0,NPK,Both,2,150,Downy Mildew,Remove infected parts,7.6
+Cauliflower,Black soil,6.7 - 8.3,Oct,12.6,Vermicompost,Basal,3,72,No major disease,Apply neem extract,34.1
+Banana,Loamy,6.0 - 8.3,Feb,8.5,Vermicompost,Both,6,178,Downy Mildew,Use crop rotation,9.95
+Mustard,Black soil,5.9 - 7.7,Oct,22.3,DAP,Top Dressing,4,178,Blight,Spray insecticide,9.74
+Lemon,Alluvial,6.7 - 7.8,Oct,19.3,Urea,Both,5,120,Root Rot,No treatment needed,6.96
+Tea,Sandy loam,5.9 - 8.1,Apr,5.6,Compost,Top Dressing,8,167,Downy Mildew,No treatment needed,33.7
+Maize,Sandy loam,6.2 - 8.2,Dec,17.7,NPK,Both,4,177,Anthracnose,Use crop rotation,32.67
+Wheat,Loamy,6.0 - 8.0,May,29.1,DAP,Basal,7,125,Wilt,No treatment needed,30.38
+Apple,Clay,7.4 - 8.1,Nov,26.2,Compost,Basal,4,72,No major disease,Spray insecticide,26.07
+Okra,Loamy,6.9 - 8.2,Jul,14.5,Urea,Basal,8,114,No major disease,Use crop rotation,12.7
+Soybean,Black soil,6.1 - 7.8,Feb,11.6,Urea,Basal,6,122,Wilt,Apply neem extract,19.2
+Coriander,Black soil,6.9 - 7.7,Jun,25.0,Vermicompost,Top Dressing,5,128,Rust,Spray insecticide,12.83
+Papaya,Clay,6.9 - 8.0,Jul,13.6,Vermicompost,Top Dressing,4,71,Wilt,Spray insecticide,31.81
+Pearl Millet,Alluvial,6.6 - 7.7,Aug,28.6,Compost,Top Dressing,3,125,Blight,Spray insecticide,7.92
+Potato,Sandy loam,5.8 - 8.1,Aug,20.4,Compost,Both,8,152,Stem Borer,Remove infected parts,27.69
+Tomato,Alluvial,6.3 - 8.1,Oct,25.2,Vermicompost,Basal,5,177,Rust,Remove infected parts,18.9
+Cotton,Sandy loam,6.2 - 8.0,Aug,21.4,Compost,Top Dressing,3,168,Stem Borer,Use fungicide,34.61
+Groundnut,Black soil,7.4 - 8.3,Feb,29.6,Vermicompost,Top Dressing,3,130,Leaf Spot,No treatment needed,12.5
+Sesame,Sandy loam,6.0 - 7.8,Sep,19.5,Vermicompost,Basal,4,138,Anthracnose,Apply neem extract,21.65
+Tomato,Black soil,5.6 - 8.3,Feb,20.6,DAP,Top Dressing,8,163,Downy Mildew,Use crop rotation,28.72
+Groundnut,Loamy,7.4 - 8.0,Nov,23.3,Compost,Both,4,64,Powdery Mildew,Spray insecticide,14.26
+Cabbage,Black soil,6.7 - 8.3,Jan,27.4,NPK,Both,3,127,Wilt,No treatment needed,16.81
+Peas,Black soil,7.1 - 8.5,Jun,22.2,DAP,Basal,6,118,Stem Borer,No treatment needed,13.56
+Cotton,Alluvial,7.0 - 7.8,Feb,17.3,Vermicompost,Basal,2,122,No major disease,Spray insecticide,9.56
+Carrot,Clay,5.9 - 8.1,Aug,21.6,Urea,Top Dressing,2,77,Root Rot,Apply neem extract,29.1
+Coriander,Loamy,6.4 - 8.0,Apr,7.1,DAP,Basal,3,92,Anthracnose,No treatment needed,5.89
+Guava,Clay,6.1 - 8.1,May,7.3,Urea,Both,7,146,No major disease,Remove infected parts,21.73
+Sweet Corn,Sandy loam,6.8 - 8.3,Mar,27.1,Compost,Both,2,127,Powdery Mildew,Remove infected parts,20.14
+Lemon,Clay,5.8 - 8.2,Sep,22.7,DAP,Basal,8,81,No major disease,Apply neem extract,25.02
+Onion,Alluvial,6.8 - 7.9,Aug,17.7,Compost,Basal,8,166,Anthracnose,Apply neem extract,17.64
+Ginger,Black soil,7.2 - 7.8,May,8.5,Urea,Both,2,176,No major disease,Spray insecticide,6.53
+Pumpkin,Loamy,7.5 - 7.6,Apr,20.2,Vermicompost,Basal,7,79,Stem Borer,Remove infected parts,5.26
+Bottle Gourd,Clay,6.0 - 7.7,Nov,7.3,Urea,Both,5,61,Wilt,Use crop rotation,26.53
+Pearl Millet,Sandy loam,6.3 - 8.2,Jul,6.6,NPK,Top Dressing,4,129,Leaf Spot,Remove infected parts,11.93
+Garlic,Sandy loam,5.7 - 8.1,Apr,28.4,Urea,Basal,8,108,No major disease,Remove infected parts,9.86
+Sorghum,Sandy loam,6.9 - 8.0,Nov,22.6,Compost,Top Dressing,2,116,Downy Mildew,No treatment needed,23.7
+Sesame,Loamy,6.7 - 8.4,Mar,5.0,Vermicompost,Basal,7,97,Anthracnose,Spray insecticide,32.05
+Peas,Black soil,7.5 - 8.3,Jun,23.5,DAP,Basal,2,133,Wilt,Use fungicide,20.95
+Tomato,Black soil,7.1 - 8.2,Feb,13.9,Urea,Basal,2,120,Downy Mildew,Spray insecticide,28.97
+Guava,Alluvial,6.2 - 8.1,Sep,12.8,Compost,Basal,2,128,Anthracnose,Apply neem extract,33.33
+Pigeon Pea,Loamy,6.2 - 7.9,May,5.9,Compost,Basal,4,168,Powdery Mildew,Use fungicide,17.81
+Chickpea,Black soil,7.1 - 7.8,Apr,22.2,Vermicompost,Both,2,101,Stem Borer,Remove infected parts,5.96
+Orange,Sandy loam,5.8 - 8.2,Mar,22.0,DAP,Top Dressing,7,118,Stem Borer,No treatment needed,15.35
+Mustard,Alluvial,7.5 - 7.7,Aug,5.6,NPK,Basal,5,155,Anthracnose,Use fungicide,32.42
+Ginger,Black soil,7.0 - 8.2,Mar,3.8,Compost,Basal,5,159,Anthracnose,Apply neem extract,30.86
+Radish,Clay,6.0 - 7.9,Feb,15.0,NPK,Both,6,104,Powdery Mildew,No treatment needed,19.47
+Black Gram,Clay,6.8 - 7.9,Mar,21.4,Compost,Basal,8,66,Stem Borer,Apply neem extract,5.33
+Green Gram,Loamy,6.1 - 8.1,Oct,3.9,Urea,Basal,7,82,Anthracnose,Apply neem extract,11.17
+Banana,Black soil,5.9 - 7.7,Jul,16.0,DAP,Both,6,119,Wilt,Use crop rotation,19.88
+Garlic,Black soil,7.0 - 8.5,Sep,19.4,Urea,Top Dressing,2,60,Leaf Spot,Use fungicide,19.91
+Pigeon Pea,Sandy loam,6.6 - 7.8,Jun,5.3,Vermicompost,Basal,5,78,Downy Mildew,No treatment needed,22.18
+Onion,Alluvial,6.3 - 8.0,Jul,3.5,Vermicompost,Basal,3,102,Wilt,Apply neem extract,13.03
+Coffee,Loamy,6.5 - 7.6,May,7.2,Vermicompost,Both,7,84,Wilt,No treatment needed,31.01
+Garlic,Alluvial,6.9 - 7.9,Jul,8.2,DAP,Top Dressing,8,135,Stem Borer,Use crop rotation,10.97
+Sweet Corn,Loamy,6.8 - 7.8,Jul,12.1,Vermicompost,Basal,3,154,Leaf Spot,Use crop rotation,17.81
+Sorghum,Black soil,7.1 - 7.9,Mar,19.8,Compost,Both,3,171,Anthracnose,Use fungicide,31.69
+Beetroot,Black soil,7.2 - 7.9,May,27.2,Vermicompost,Both,4,74,Blight,Use fungicide,17.66
+Cotton,Black soil,6.5 - 8.3,Feb,11.8,NPK,Top Dressing,4,107,Anthracnose,Remove infected parts,6.81
+Mustard,Sandy loam,6.5 - 8.1,Jul,11.4,NPK,Both,2,137,Blight,Remove infected parts,31.3
+Tea,Black soil,5.7 - 7.8,Oct,26.3,NPK,Top Dressing,8,167,No major disease,No treatment needed,29.34
+Coffee,Black soil,6.8 - 7.9,May,29.1,NPK,Basal,5,108,Wilt,No treatment needed,27.82
+Rice,Clay,5.8 - 8.0,Oct,15.1,Compost,Top Dressing,3,136,Rust,Use crop rotation,32.62
+Sorghum,Sandy loam,7.4 - 8.3,Mar,12.6,Compost,Both,6,142,No major disease,No treatment needed,30.5
+Lemon,Sandy loam,7.2 - 7.7,May,28.3,Compost,Basal,5,141,Wilt,Use fungicide,14.58
+Grapes,Alluvial,6.8 - 8.5,May,17.7,DAP,Top Dressing,5,172,Rust,No treatment needed,33.36
+Soybean,Black soil,6.8 - 7.8,Oct,22.2,DAP,Both,2,141,Stem Borer,Use crop rotation,13.17
+Coffee,Alluvial,6.0 - 7.8,Jul,8.5,NPK,Basal,2,104,Leaf Spot,Apply neem extract,23.94
+Pearl Millet,Sandy loam,7.2 - 8.3,Apr,10.3,DAP,Top Dressing,5,75,Anthracnose,Apply neem extract,31.73
+Groundnut,Sandy loam,7.4 - 8.0,Sep,23.8,DAP,Basal,2,171,Leaf Spot,Apply neem extract,17.52
+Radish,Loamy,5.6 - 7.9,Sep,20.9,Compost,Top Dressing,5,60,No major disease,Spray insecticide,6.97
+Mustard,Black soil,5.9 - 8.4,Sep,28.4,Compost,Both,7,155,Stem Borer,Spray insecticide,7.68
+Apple,Black soil,7.2 - 8.3,Oct,19.0,Vermicompost,Both,8,142,Downy Mildew,Use fungicide,29.73
+Cotton,Clay,6.6 - 7.8,Aug,19.6,Compost,Both,3,164,Downy Mildew,Spray insecticide,6.06
+Black Gram,Black soil,7.4 - 7.6,Mar,26.5,Urea,Both,6,84,Root Rot,Use fungicide,6.7
+Ginger,Sandy loam,6.5 - 7.9,Nov,19.9,Vermicompost,Both,6,174,Powdery Mildew,Apply neem extract,17.45
+Brinjal,Clay,6.6 - 7.8,Nov,22.2,Compost,Basal,4,179,Downy Mildew,Use fungicide,31.97
+Apple,Black soil,7.5 - 8.1,Mar,27.7,Compost,Basal,3,111,Blight,Use crop rotation,27.37
+Tea,Black soil,6.7 - 7.9,May,14.2,Urea,Basal,2,92,Leaf Spot,Remove infected parts,34.11
+Maize,Black soil,6.8 - 8.1,Nov,24.9,Compost,Basal,7,173,Root Rot,Use crop rotation,21.45
+Beetroot,Sandy loam,7.2 - 8.4,Apr,24.6,Compost,Basal,2,172,Root Rot,Remove infected parts,13.56
+Green Gram,Clay,6.7 - 8.1,Nov,26.2,NPK,Basal,7,163,No major disease,Use fungicide,23.97
+Banana,Sandy loam,7.0 - 8.0,Oct,12.7,Vermicompost,Both,5,84,No major disease,Spray insecticide,19.7
+Pigeon Pea,Black soil,5.9 - 7.8,Jan,30.0,NPK,Top Dressing,8,149,Root Rot,Apply neem extract,5.23
+Banana,Alluvial,7.4 - 7.8,Mar,21.7,NPK,Top Dressing,7,99,Blight,Spray insecticide,33.01
+Papaya,Clay,6.6 - 8.3,Sep,15.5,NPK,Top Dressing,7,108,Downy Mildew,Use crop rotation,16.26
+Onion,Alluvial,6.0 - 7.7,Jun,29.2,DAP,Basal,2,87,Blight,Apply neem extract,8.41
+Cotton,Loamy,6.6 - 7.9,Jul,6.5,Urea,Top Dressing,4,85,Anthracnose,Spray insecticide,25.85
+Grapes,Black soil,6.5 - 7.7,Jan,11.0,NPK,Top Dressing,4,130,Stem Borer,Remove infected parts,34.39
+Beetroot,Loamy,5.7 - 8.2,Apr,6.6,DAP,Both,3,67,Leaf Spot,Remove infected parts,16.9
+Carrot,Alluvial,5.5 - 7.9,Oct,26.3,Compost,Top Dressing,8,164,Anthracnose,Spray insecticide,28.23
+Sunflower,Black soil,5.6 - 8.4,Nov,26.3,NPK,Top Dressing,5,165,Wilt,No treatment needed,34.08
+Turmeric,Alluvial,6.3 - 7.9,May,6.7,NPK,Both,7,85,Powdery Mildew,Apply neem extract,12.89
+Brinjal,Loamy,6.4 - 7.9,Oct,16.1,Compost,Top Dressing,7,82,Powdery Mildew,Use fungicide,14.03
+Tea,Sandy loam,6.2 - 7.8,Jun,7.0,DAP,Top Dressing,6,162,Root Rot,Spray insecticide,16.32
+Lemon,Clay,6.2 - 7.6,Jul,22.4,Urea,Basal,4,74,Leaf Spot,Use fungicide,10.0
+Guava,Loamy,7.2 - 7.9,Mar,14.9,Compost,Top Dressing,7,141,Downy Mildew,Remove infected parts,17.37
+Rice,Black soil,7.3 - 7.6,Nov,24.0,Vermicompost,Both,7,115,Root Rot,Spray insecticide,5.47
+Beetroot,Clay,6.3 - 7.7,Sep,5.3,NPK,Basal,5,80,Anthracnose,Remove infected parts,33.67
+Pineapple,Clay,6.0 - 7.9,Apr,18.5,Urea,Both,8,156,Root Rot,Use fungicide,10.95
+Tomato,Clay,7.5 - 8.2,Nov,27.2,NPK,Both,3,172,Anthracnose,Use crop rotation,28.51
+Tomato,Clay,6.0 - 8.3,Nov,9.5,NPK,Basal,5,172,Wilt,Use fungicide,13.62
+Garlic,Loamy,7.2 - 7.8,Nov,27.5,DAP,Basal,7,142,No major disease,Spray insecticide,32.9
+Coffee,Alluvial,7.1 - 8.4,Jun,13.5,Urea,Both,8,167,Stem Borer,Remove infected parts,9.97
+Sunflower,Alluvial,7.4 - 8.5,Dec,17.6,NPK,Basal,8,103,Wilt,Use fungicide,13.64
+Chili,Alluvial,5.8 - 7.9,Dec,3.1,Urea,Top Dressing,2,150,Rust,No treatment needed,25.59
+Beetroot,Black soil,6.8 - 7.6,Aug,26.6,DAP,Both,4,146,Root Rot,Use crop rotation,23.37
+Pearl Millet,Clay,7.1 - 7.9,May,11.2,DAP,Both,8,164,Powdery Mildew,Use crop rotation,12.01
+Grapes,Black soil,7.3 - 8.2,Jun,28.3,Urea,Basal,3,65,Leaf Spot,Use crop rotation,5.52
+Mustard,Clay,5.7 - 8.3,Aug,14.1,Vermicompost,Both,5,103,Root Rot,Spray insecticide,14.62
+Coriander,Black soil,6.7 - 7.7,Feb,9.7,DAP,Basal,3,165,No major disease,Spray insecticide,20.78
+Pumpkin,Clay,7.2 - 8.3,Jun,27.3,NPK,Basal,8,150,Anthracnose,Apply neem extract,23.49
+Bottle Gourd,Clay,5.6 - 8.2,Aug,25.8,Vermicompost,Basal,2,175,Stem Borer,Apply neem extract,26.32
+Banana,Clay,5.8 - 8.0,Sep,30.0,Urea,Basal,2,104,Rust,Remove infected parts,24.04
+Wheat,Loamy,5.5 - 8.3,Oct,7.6,DAP,Both,2,67,Rust,Use fungicide,22.68
+Onion,Loamy,5.9 - 8.2,May,22.2,Compost,Top Dressing,7,86,Powdery Mildew,Use fungicide,5.55
+Cotton,Black soil,7.0 - 7.8,Jul,3.0,DAP,Basal,8,63,Wilt,Spray insecticide,16.75
+Sunflower,Loamy,6.8 - 8.2,Dec,24.2,Compost,Top Dressing,6,91,Root Rot,Remove infected parts,13.25
+Green Gram,Sandy loam,6.0 - 8.4,Jan,13.7,Compost,Top Dressing,6,131,Blight,Use crop rotation,25.18
+Chili,Black soil,6.4 - 8.3,Dec,7.6,Compost,Both,4,62,Rust,Use fungicide,32.72
+Tea,Clay,6.6 - 8.2,Dec,18.6,DAP,Both,3,90,Root Rot,Spray insecticide,10.13
+Apple,Clay,5.7 - 8.3,Apr,29.0,DAP,Basal,2,173,Blight,Spray insecticide,15.02
+Sweet Corn,Alluvial,6.0 - 7.7,Jan,4.9,Vermicompost,Top Dressing,8,170,Rust,Remove infected parts,6.88
+Chili,Sandy loam,7.4 - 7.8,Aug,9.9,Compost,Both,2,100,Rust,Remove infected parts,28.26
+Tea,Alluvial,6.8 - 7.9,Aug,11.8,Vermicompost,Both,2,143,No major disease,Spray insecticide,22.56
+Coriander,Loamy,7.1 - 7.9,Sep,14.4,Urea,Top Dressing,6,139,Downy Mildew,No treatment needed,33.13
+Okra,Loamy,5.9 - 7.8,May,13.4,NPK,Basal,2,175,Root Rot,Remove infected parts,32.11
+Sweet Corn,Sandy loam,6.0 - 8.1,Nov,14.1,DAP,Basal,7,155,Root Rot,Use crop rotation,19.82
+Potato,Clay,5.6 - 8.3,Jul,23.1,DAP,Top Dressing,5,178,Downy Mildew,Remove infected parts,18.2
+Pigeon Pea,Clay,5.7 - 7.9,May,12.4,Vermicompost,Basal,2,157,Downy Mildew,Spray insecticide,23.28
+Tomato,Black soil,5.7 - 8.4,May,19.5,NPK,Basal,8,71,Anthracnose,No treatment needed,17.78
+Chickpea,Sandy loam,6.4 - 7.6,Sep,21.3,Compost,Both,5,108,Blight,Spray insecticide,21.01
+Orange,Alluvial,6.7 - 7.9,Dec,7.7,Urea,Basal,6,152,Stem Borer,Use fungicide,29.54
+Potato,Loamy,5.7 - 8.3,Sep,9.0,Vermicompost,Both,7,75,Leaf Spot,No treatment needed,13.41
+Lemon,Clay,6.7 - 8.0,May,5.8,DAP,Top Dressing,4,62,Root Rot,Use crop rotation,15.19
+Rice,Sandy loam,6.3 - 8.4,Apr,16.6,DAP,Basal,3,67,Wilt,Apply neem extract,18.74
+Black Gram,Clay,7.2 - 8.2,Aug,11.9,NPK,Top Dressing,7,89,Blight,Remove infected parts,5.37
+Orange,Black soil,7.5 - 8.1,Mar,22.7,Vermicompost,Basal,6,109,Rust,Apply neem extract,17.42
+Barley,Alluvial,6.8 - 7.6,Jan,20.1,Urea,Top Dressing,8,103,No major disease,Spray insecticide,23.97
+Ginger,Loamy,7.0 - 8.1,Jun,4.2,Compost,Basal,5,97,Stem Borer,Spray insecticide,32.08
+Carrot,Loamy,5.6 - 8.0,Oct,24.0,Compost,Both,8,92,Rust,No treatment needed,14.2
+Rice,Clay,6.4 - 8.1,Sep,7.6,DAP,Both,4,114,Leaf Spot,Use fungicide,19.03
+Pigeon Pea,Sandy loam,6.0 - 8.4,May,22.9,NPK,Both,6,106,Powdery Mildew,Use crop rotation,27.4
+Sweet Corn,Loamy,5.8 - 8.1,Jul,14.2,Vermicompost,Basal,5,165,Leaf Spot,Apply neem extract,6.45
+Cotton,Black soil,7.0 - 7.6,Mar,14.9,DAP,Basal,6,153,Downy Mildew,Spray insecticide,19.41
+Chili,Alluvial,5.8 - 8.3,Apr,8.6,Urea,Both,4,147,Rust,Spray insecticide,6.58
+Coffee,Alluvial,6.3 - 7.9,May,21.8,DAP,Basal,2,111,Stem Borer,No treatment needed,5.99
+Chickpea,Loamy,5.8 - 8.2,Aug,29.7,NPK,Basal,6,123,Anthracnose,Remove infected parts,24.84
+Cotton,Alluvial,7.0 - 8.1,Nov,4.0,Urea,Top Dressing,4,134,Stem Borer,No treatment needed,19.34
+Barley,Black soil,7.1 - 8.1,Oct,9.8,Vermicompost,Basal,4,140,Blight,No treatment needed,8.71
+Turmeric,Sandy loam,7.5 - 7.7,Mar,8.5,Compost,Top Dressing,8,134,Root Rot,Remove infected parts,23.87
+Turmeric,Clay,5.5 - 8.5,Apr,21.8,DAP,Top Dressing,6,138,Anthracnose,Use crop rotation,11.76
+Tea,Clay,7.4 - 7.7,Nov,4.4,Compost,Both,8,167,Stem Borer,Remove infected parts,13.89
+Pineapple,Loamy,7.4 - 8.0,Apr,23.7,DAP,Both,8,121,Blight,Use fungicide,7.02
+Mustard,Loamy,7.5 - 8.5,Nov,16.8,DAP,Top Dressing,8,175,Wilt,Apply neem extract,17.74
+Grapes,Loamy,5.6 - 7.7,Jul,9.8,Urea,Basal,4,72,Stem Borer,Spray insecticide,27.95
+Sesame,Sandy loam,5.7 - 8.0,Apr,16.0,DAP,Both,4,114,Wilt,Apply neem extract,23.36
+Okra,Loamy,6.3 - 8.3,Mar,19.3,Compost,Top Dressing,5,96,Rust,Remove infected parts,22.88
+Mustard,Loamy,5.6 - 7.9,Aug,21.6,Urea,Basal,5,171,Root Rot,Apply neem extract,33.06
+Carrot,Black soil,6.3 - 8.1,Aug,24.9,DAP,Basal,2,119,Wilt,Use crop rotation,11.15
+Turmeric,Sandy loam,6.8 - 8.4,Sep,4.5,NPK,Top Dressing,3,121,Rust,Spray insecticide,15.18
+Chickpea,Clay,6.3 - 8.1,Jul,14.8,Vermicompost,Top Dressing,6,171,Downy Mildew,Use fungicide,14.17
+Soybean,Black soil,6.2 - 8.1,Jan,3.5,Compost,Basal,2,132,Wilt,Spray insecticide,15.21
+Brinjal,Loamy,6.3 - 8.3,Jun,25.8,Urea,Both,6,159,Blight,Spray insecticide,12.65
+Garlic,Black soil,6.8 - 7.7,Jun,17.1,Urea,Basal,5,150,Blight,Remove infected parts,9.25
+Sesame,Sandy loam,7.2 - 8.3,Aug,5.3,Compost,Both,3,178,Rust,Remove infected parts,8.36
+Sorghum,Loamy,5.8 - 8.4,Apr,15.7,Compost,Basal,4,160,Blight,Spray insecticide,30.11
+Sesame,Black soil,5.7 - 7.7,Dec,20.3,Compost,Both,5,153,Anthracnose,Use crop rotation,5.8
+Finger Millet,Loamy,7.1 - 7.8,Feb,12.7,Vermicompost,Basal,6,174,Blight,Use crop rotation,20.69
+Carrot,Alluvial,6.3 - 8.4,Jul,3.4,DAP,Basal,3,162,Root Rot,Spray insecticide,26.79
+Guava,Alluvial,6.4 - 7.7,Apr,26.2,Vermicompost,Top Dressing,8,61,Rust,Use crop rotation,24.03
+Garlic,Loamy,6.9 - 7.9,Sep,3.7,NPK,Both,4,97,No major disease,Spray insecticide,5.08
+Guava,Black soil,6.4 - 8.3,Sep,11.3,NPK,Basal,2,175,No major disease,Apply neem extract,6.02
+Lemon,Alluvial,6.9 - 7.7,Nov,22.1,Vermicompost,Top Dressing,4,135,Blight,Apply neem extract,17.5
+Coffee,Alluvial,7.2 - 8.1,Sep,20.3,Vermicompost,Basal,6,150,Blight,Apply neem extract,33.75
+Okra,Clay,7.0 - 7.9,Mar,26.7,Urea,Basal,4,153,No major disease,Spray insecticide,29.54
+Wheat,Loamy,5.7 - 7.8,Jul,6.4,Compost,Basal,3,83,Downy Mildew,Use crop rotation,26.28
