@@ -3,20 +3,72 @@ import joblib
 import pandas as pd
 import numpy as np
 import os
-from keras.models import load_model
-from keras.preprocessing import image
+
+# === TensorFlow/Keras imports with error handling ===
+try:
+    import tensorflow as tf
+    from tensorflow.keras.models import load_model
+    from tensorflow.keras.preprocessing import image
+    TENSORFLOW_AVAILABLE = True
+except ImportError:
+    try:
+        from keras.models import load_model
+        from keras.preprocessing import image
+        TENSORFLOW_AVAILABLE = True
+    except ImportError:
+        st.error("❌ TensorFlow/Keras not available. Disease detection feature disabled.")
+        TENSORFLOW_AVAILABLE = False
+        load_model = None
+        image = None
 
 # === Define base path (inside components/) ===
 BASE_DIR = os.path.dirname(__file__)
 MODELS_DIR = os.path.join(BASE_DIR, "models")
 
-# === Load Models & Data ===
-crop_model = joblib.load(os.path.join(MODELS_DIR, "crop_model.joblib"))
-disease_model = load_model(os.path.join(MODELS_DIR, "crop_disease_model.h5"))
-treatment_df = pd.read_csv(os.path.join(MODELS_DIR, "crop_disease_treatment.csv"))
-rf_model = joblib.load(os.path.join(MODELS_DIR, "rf_model_latest.pkl"))
-label_encoders = joblib.load(os.path.join(MODELS_DIR, "label_encoders.pkl"))
-advisor_df = pd.read_csv(os.path.join(MODELS_DIR, "crop_advisor_download.csv"))
+# === Load Models & Data with error handling ===
+@st.cache_resource
+def load_models():
+    """Load all models with error handling"""
+    models = {}
+    
+    try:
+        # Load crop recommendation model
+        models['crop_model'] = joblib.load(os.path.join(MODELS_DIR, "crop_model.joblib"))
+        st.success("✅ Crop recommendation model loaded")
+    except Exception as e:
+        st.error(f"❌ Failed to load crop model: {e}")
+        models['crop_model'] = None
+    
+    try:
+        # Load disease detection model (only if TensorFlow is available)
+        if TENSORFLOW_AVAILABLE and load_model:
+            models['disease_model'] = load_model(os.path.join(MODELS_DIR, "crop_disease_model.h5"))
+            st.success("✅ Disease detection model loaded")
+        else:
+            models['disease_model'] = None
+            st.warning("⚠️ Disease detection model not available")
+    except Exception as e:
+        st.error(f"❌ Failed to load disease model: {e}")
+        models['disease_model'] = None
+    
+    try:
+        # Load other models and data
+        models['rf_model'] = joblib.load(os.path.join(MODELS_DIR, "rf_model_latest.pkl"))
+        models['label_encoders'] = joblib.load(os.path.join(MODELS_DIR, "label_encoders.pkl"))
+        models['treatment_df'] = pd.read_csv(os.path.join(MODELS_DIR, "crop_disease_treatment.csv"))
+        models['advisor_df'] = pd.read_csv(os.path.join(MODELS_DIR, "crop_advisor_download.csv"))
+        st.success("✅ Additional models and data loaded")
+    except Exception as e:
+        st.error(f"❌ Failed to load additional models: {e}")
+        models['rf_model'] = None
+        models['label_encoders'] = None
+        models['treatment_df'] = pd.DataFrame()
+        models['advisor_df'] = pd.DataFrame()
+    
+    return models
+
+# Load all models
+MODELS = load_models()
 
 # === Use Case 1: Crop Recommendation ===
 def crop_recommendation_ui():
@@ -30,31 +82,46 @@ def crop_recommendation_ui():
     rainfall = st.number_input("Rainfall (mm)")
 
     if st.button("🔍 Recommend Crop"):
-        data = [[N, P, K, temperature, humidity, ph, rainfall]]
-        prediction = crop_model.predict(data)[0]
-        st.success(f"✅ Recommended Crop: {prediction}")
+        if MODELS['crop_model'] is not None:
+            data = [[N, P, K, temperature, humidity, ph, rainfall]]
+            prediction = MODELS['crop_model'].predict(data)[0]
+            st.success(f"✅ Recommended Crop: {prediction}")
+        else:
+            st.error("❌ Crop recommendation model not available")
 
 # === Use Case 2: Crop Disease Detection ===
 def disease_detection_ui():
     st.header("🦠 Crop Disease Detection")
+    
+    if not TENSORFLOW_AVAILABLE or MODELS['disease_model'] is None:
+        st.error("❌ Disease detection feature is not available. TensorFlow/Keras required.")
+        return
+    
     uploaded_file = st.file_uploader("Upload leaf image", type=["png", "jpg", "jpeg"])
 
     if uploaded_file:
-        img = image.load_img(uploaded_file, target_size=(224, 224))
-        img_array = image.img_to_array(img) / 255.0
-        img_array = np.expand_dims(img_array, axis=0)
+        try:
+            img = image.load_img(uploaded_file, target_size=(224, 224))
+            img_array = image.img_to_array(img) / 255.0
+            img_array = np.expand_dims(img_array, axis=0)
 
-        prediction = disease_model.predict(img_array)
-        predicted_index = np.argmax(prediction)
-        class_names = sorted(treatment_df["label"].unique())
-        predicted_class = class_names[predicted_index]
+            prediction = MODELS['disease_model'].predict(img_array)
+            predicted_index = np.argmax(prediction)
+            
+            if not MODELS['treatment_df'].empty:
+                class_names = sorted(MODELS['treatment_df']["label"].unique())
+                predicted_class = class_names[predicted_index]
 
-        treatment_map = dict(zip(treatment_df["label"], treatment_df["treatment"]))
-        treatment = treatment_map.get(predicted_class, "⚠️ No treatment info available.")
+                treatment_map = dict(zip(MODELS['treatment_df']["label"], MODELS['treatment_df']["treatment"]))
+                treatment = treatment_map.get(predicted_class, "⚠️ No treatment info available.")
 
-        st.image(img, caption="Uploaded Image", use_column_width=True)
-        st.subheader(f"🦠 Detected Disease: {predicted_class}")
-        st.info(f"💊 Suggested Treatment: {treatment}")
+                st.image(img, caption="Uploaded Image", use_column_width=True)
+                st.subheader(f"🦠 Detected Disease: {predicted_class}")
+                st.info(f"💊 Suggested Treatment: {treatment}")
+            else:
+                st.error("❌ Treatment data not available")
+        except Exception as e:
+            st.error(f"❌ Error processing image: {e}")
 
 # === Use Case 3: Market Price Analysis ===
 def market_price_ui():
@@ -83,14 +150,17 @@ def market_price_ui():
         }
 
         for col in ['State', 'District', 'Market', 'Commodity', 'Variety']:
-            if data[col] in label_encoders[col].classes_:
-                data[col] = label_encoders[col].transform([data[col]])[0]
+            if MODELS['label_encoders'] and col in MODELS['label_encoders'] and data[col] in MODELS['label_encoders'][col].classes_:
+                data[col] = MODELS['label_encoders'][col].transform([data[col]])[0]
             else:
                 data[col] = 0
 
         input_df = pd.DataFrame([data])
-        prediction = rf_model.predict(input_df)[0]
-        st.success(f"💰 Predicted Modal Price: ₹{prediction:.2f}")
+        if MODELS['rf_model'] is not None:
+            prediction = MODELS['rf_model'].predict(input_df)[0]
+            st.success(f"💰 Predicted Modal Price: ₹{prediction:.2f}")
+        else:
+            st.error("❌ Price prediction model not available")
 
 # === Use Case 4: Crop Advisory ===
 def advisor_ui():
@@ -98,16 +168,23 @@ def advisor_ui():
     crop_name = st.text_input("Enter crop name")
 
     if st.button("🔍 Get Advice"):
-        crop_col = [col for col in advisor_df.columns if 'crop' in col.lower()][0]
-        crop_data = advisor_df[advisor_df[crop_col].str.lower() == crop_name.lower()]
-
-        if crop_data.empty:
-            st.warning(f"❌ No data found for '{crop_name}'.")
+        if not MODELS['advisor_df'].empty:
+            try:
+                crop_col = [col for col in MODELS['advisor_df'].columns if 'crop' in col.lower()][0]
+                crop_data = MODELS['advisor_df'][MODELS['advisor_df'][crop_col].str.lower() == crop_name.lower()]
+        
+                if not crop_data.empty:
+                    st.success(f"✅ Found advice for {crop_name}")
+                    st.subheader(f"🌾 Advisory for {crop_name.title()}")
+                    for col in crop_data.columns:
+                        if col != crop_col:
+                            st.write(f"🔹 **{col}:** {crop_data.iloc[0][col]}")
+                else:
+                    st.warning(f"⚠️ No advice found for '{crop_name}'")
+            except Exception as e:
+                st.error(f"❌ Error retrieving advice: {e}")
         else:
-            st.subheader(f"🌾 Advisory for {crop_name.title()}")
-            for col in crop_data.columns:
-                if col != crop_col:
-                    st.write(f"🔹 {col}: {crop_data.iloc[0][col]}")
+            st.error("❌ Advisory data not available")
 
 
 
